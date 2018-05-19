@@ -1,0 +1,235 @@
+
+
+ !*!*! Starting scanning with airodump-ng
+
+ 1) start: 2018.03.25-20.27.25 , stop: 2018.03.25-20.34.40 [duration: 435] , slept for: 270
+
+ 2) start: 2018.03.25-20.39.10 , stop: 2018.03.25-20.53.32 [duration: 862] , slept for: 122
+
+ 3) start: 2018.03.25-20.55.34 , stop: 2018.03.25-20.55.48 [duration: 14] , slept for: 217
+
+ 4) start: 2018.03.25-20.59.25 , stop: 2018.03.25-21.01.14 [duration: 109] , slept for: 118
+
+ 5) start: 2018.03.25-21.03.12 , stop: 2018.03.25-21.11.47 [duration: 515] , slept for: 258
+
+ 6) start: 2018.03.25-21.16.05 , stop: 2018.03.25-21.26.00 [duration: 595] , slept for: 249
+
+ 7) start: 2018.03.25-21.30.09 , stop: 2018.03.25-21.35.06 [duration: 297] , slept for: 155
+
+ 8) start: 2018.03.25-21.37.41 , stop: 2018.03.25-21.41.02 [duration: 201] , slept for: 194
+
+ 9) start: 2018.03.25-21.44.16 , stop: 2018.03.25-21.54.16 [duration: 600] , slept for: 54
+
+ 10) start: 2018.03.25-21.55.10 , stop: 2018.03.25-22.06.14 [duration: 664] , slept for: 222
+
+ 11) start: 2018.03.25-22.09.56 , stop: 2018.03.25-22.22.54 [duration: 778] , slept for: 132
+
+ 12) start: 2018.03.25-22.25.07 , stop: 2018.03.25-22.29.49 [duration: 282] , slept for: 87
+
+ 13) start: 2018.03.25-22.31.16 , stop: 2018.03.25-22.33.54 [duration: 158] , slept for: 261
+
+ 14) start: 2018.03.25-22.38.15 , stop: 2018.03.25-22.47.14 [duration: 539] , slept for: 174
+
+ 15) start: 2018.03.25-22.50.08 , stop: 2018.03.25-22.52.03 [duration: 115] , slept for: 194
+
+ 16) start: 2018.03.25-22.55.17 , stop: 2018.03.25-23.09.09 [duration: 832] , slept for: 128
+
+ 17) start: 2018.03.25-23.11.17 , stop: 2018.03.25-23.23.21 [duration: 724] , slept for: 116
+
+ 18) start: 2018.03.25-23.25.17 , stop: 2018.03.25-23.32.36 [duration: 439] , slept for: 149
+
+ 19) start: 2018.03.25-23.35.05 , stop: 2018.03.25-23.38.39 [duration: 214] , slept for: 16
+
+ 20) start: 2018.03.25-23.38.55 , stop: 2018.03.25-23.47.11 [duration: 496] , slept for: 78
+
+ 21) start: 2018.03.25-23.48.29 , stop: 2018.03.25-23.48.54 [duration: 25] , slept for: 225
+
+ 22) start: 2018.03.25-23.52.39 , stop: 2018.03.26-00.02.32 [duration: 593] , slept for: 87
+
+ 23) start: 2018.03.26-00.03.59 , stop: 2018.03.26-00.13.02 [duration: 543] , slept for: 95
+
+ 24) start: 2018.03.26-00.14.37 , stop: 2018.03.26-00.25.36 [duration: 659] , slept for: 159
+
+ 25) start: 2018.03.26-00.28.15 , stop: 2018.03.26-00.31.18 [duration: 183] , slept for: 24
+
+ 26) start: 2018.03.26-00.31.42 , stop: 2018.03.26-00.33.29 [duration: 107] , slept for: 180
+
+ 27) start: 2018.03.26-00.36.29 , stop: 2018.03.26-00.37.14 [duration: 45] , slept for: 147
+
+ 28) start: 2018.03.26-00.39.41 , stop: 2018.03.26-00.43.03 [duration: 202] , slept for: 265
+
+ 29) start: 2018.03.26-00.47.28 , stop: 2018.03.26-00.49.51 [duration: 143] , slept for: 216
+
+ 30) start: 2018.03.26-00.53.27 , stop: 2018.03.26-00.55.14 [duration: 107] , slept for: 66
+
+ 31) start: 2018.03.26-00.56.20 , stop: 2018.03.26-00.59.52 [duration: 212] , slept for: 43
+
+ 32) start: 2018.03.26-01.00.35 , stop: 2018.03.26-01.10.11 [duration: 576] , slept for: 266
+
+ 33) start: 2018.03.26-01.14.37 , stop: 2018.03.26-01.19.33 [duration: 296] , slept for: 54
+
+ 34) start: 2018.03.26-01.20.27 , stop: 2018.03.26-01.22.15 [duration: 108] , slept for: 35
+
+ 35) start: 2018.03.26-01.22.50 , stop: 2018.03.26-01.24.25 [duration: 95] , slept for: 295
+
+ 36) start: 2018.03.26-01.29.20 , stop: 2018.03.26-01.32.08 [duration: 168] , slept for: 247
+
+ 37) start: 2018.03.26-01.36.15 , stop: 2018.03.26-01.49.23 [duration: 788] , slept for: 174
+
+ 38) start: 2018.03.26-01.52.17 , stop: 2018.03.26-02.07.05 [duration: 888] , slept for: 142
+
+ 39) start: 2018.03.26-02.09.27 , stop: 2018.03.26-02.17.12 [duration: 465] , slept for: 86
+
+ 40) start: 2018.03.26-02.18.38 , stop: 2018.03.26-02.21.12 [duration: 154] , slept for: 121
+
+ 41) start: 2018.03.26-02.23.13 , stop: 2018.03.26-02.35.02 [duration: 709] , slept for: 110
+
+ 42) start: 2018.03.26-02.36.52 , stop: 2018.03.26-02.46.40 [duration: 588] , slept for: 77
+
+ 43) start: 2018.03.26-02.47.57 , stop: 2018.03.26-03.00.14 [duration: 737] , slept for: 223
+
+ 44) start: 2018.03.26-03.03.58 , stop: 2018.03.26-03.10.50 [duration: 412] , slept for: 183
+
+ 45) start: 2018.03.26-03.13.53 , stop: 2018.03.26-03.14.55 [duration: 62] , slept for: 94
+
+ 46) start: 2018.03.26-03.16.29 , stop: 2018.03.26-03.30.28 [duration: 839] , slept for: 242
+
+ 47) start: 2018.03.26-03.34.30 , stop: 2018.03.26-03.36.23 [duration: 113] , slept for: 87
+
+ 48) start: 2018.03.26-03.37.50 , stop: 2018.03.26-03.47.13 [duration: 563] , slept for: 46
+
+ 49) start: 2018.03.26-03.47.59 , stop: 2018.03.26-03.57.10 [duration: 551] , slept for: 176
+
+ 50) start: 2018.03.26-04.00.06 , stop: 2018.03.26-04.07.53 [duration: 467] , slept for: 270
+
+ 51) start: 2018.03.26-04.12.23 , stop: 2018.03.26-04.18.08 [duration: 345] , slept for: 138
+
+ 52) start: 2018.03.26-04.20.26 , stop: 2018.03.26-04.30.13 [duration: 587] , slept for: 176
+
+ 53) start: 2018.03.26-04.33.09 , stop: 2018.03.26-04.47.30 [duration: 861] , slept for: 210
+
+ 54) start: 2018.03.26-04.51.00 , stop: 2018.03.26-04.58.29 [duration: 449] , slept for: 119
+
+ 55) start: 2018.03.26-05.00.28 , stop: 2018.03.26-05.02.19 [duration: 111] , slept for: 70
+
+ 56) start: 2018.03.26-05.03.29 , stop: 2018.03.26-05.06.34 [duration: 185] , slept for: 179
+
+ 57) start: 2018.03.26-05.09.33 , stop: 2018.03.26-05.12.25 [duration: 172] , slept for: 196
+
+ 58) start: 2018.03.26-05.15.41 , stop: 2018.03.26-05.22.14 [duration: 393] , slept for: 209
+
+ 59) start: 2018.03.26-05.25.43 , stop: 2018.03.26-05.33.13 [duration: 450] , slept for: 76
+
+ 60) start: 2018.03.26-05.34.29 , stop: 2018.03.26-05.46.07 [duration: 698] , slept for: 233
+
+ 61) start: 2018.03.26-05.50.00 , stop: 2018.03.26-05.59.27 [duration: 567] , slept for: 148
+
+ 62) start: 2018.03.26-06.01.55 , stop: 2018.03.26-06.05.44 [duration: 229] , slept for: 183
+
+ 63) start: 2018.03.26-06.08.47 , stop: 2018.03.26-06.16.48 [duration: 481] , slept for: 58
+
+ 64) start: 2018.03.26-06.17.46 , stop: 2018.03.26-06.31.33 [duration: 827] , slept for: 299
+
+ 65) start: 2018.03.26-06.36.32 , stop: 2018.03.26-06.45.52 [duration: 560] , slept for: 110
+
+ 66) start: 2018.03.26-06.47.42 , stop: 2018.03.26-06.57.53 [duration: 611] , slept for: 171
+
+ 67) start: 2018.03.26-07.00.44 , stop: 2018.03.26-07.07.37 [duration: 413] , slept for: 286
+
+ 68) start: 2018.03.26-07.12.23 , stop: 2018.03.26-07.21.53 [duration: 570] , slept for: 279
+
+ 69) start: 2018.03.26-07.26.32 , stop: 2018.03.26-07.32.21 [duration: 349] , slept for: 214
+
+ 70) start: 2018.03.26-07.35.55 , stop: 2018.03.26-07.39.32 [duration: 217] , slept for: 78
+
+ 71) start: 2018.03.26-07.40.50 , stop: 2018.03.26-07.46.28 [duration: 338] , slept for: 161
+
+ 72) start: 2018.03.26-07.49.09 , stop: 2018.03.26-07.57.29 [duration: 500] , slept for: 230
+
+ 73) start: 2018.03.26-08.01.19 , stop: 2018.03.26-08.15.30 [duration: 851] , slept for: 275
+
+ 74) start: 2018.03.26-08.20.05 , stop: 2018.03.26-08.31.28 [duration: 682] , slept for: 190
+
+ 75) start: 2018.03.26-08.34.38 , stop: 2018.03.26-08.49.24 [duration: 886] , slept for: 261
+
+ 76) start: 2018.03.26-08.53.45 , stop: 2018.03.26-09.01.34 [duration: 469] , slept for: 249
+
+ 77) start: 2018.03.26-09.05.43 , stop: 2018.03.26-09.19.07 [duration: 804] , slept for: 80
+
+ 78) start: 2018.03.26-09.20.27 , stop: 2018.03.26-09.30.24 [duration: 597] , slept for: 136
+
+ 79) start: 2018.03.26-09.32.40 , stop: 2018.03.26-09.41.27 [duration: 527] , slept for: 100
+
+ 80) start: 2018.03.26-09.43.07 , stop: 2018.03.26-09.44.33 [duration: 86] , slept for: 10
+
+ 81) start: 2018.03.26-09.44.43 , stop: 2018.03.26-09.54.41 [duration: 598] , slept for: 145
+
+ 82) start: 2018.03.26-09.57.06 , stop: 2018.03.26-10.07.40 [duration: 634] , slept for: 61
+
+ 83) start: 2018.03.26-10.08.41 , stop: 2018.03.26-10.16.36 [duration: 475] , slept for: 191
+
+ 84) start: 2018.03.26-10.19.47 , stop: 2018.03.26-10.31.57 [duration: 730] , slept for: 226
+
+ 85) start: 2018.03.26-10.35.43 , stop: 2018.03.26-10.38.57 [duration: 194] , slept for: 120
+
+ 86) start: 2018.03.26-10.40.57 , stop: 2018.03.26-10.51.22 [duration: 625] , slept for: 153
+
+ 87) start: 2018.03.26-10.53.55 , stop: 2018.03.26-11.00.29 [duration: 394] , slept for: 53
+
+ 88) start: 2018.03.26-11.01.22 , stop: 2018.03.26-11.13.15 [duration: 713] , slept for: 122
+
+ 89) start: 2018.03.26-11.15.17 , stop: 2018.03.26-11.25.22 [duration: 605] , slept for: 108
+
+ 90) start: 2018.03.26-11.27.10 , stop: 2018.03.26-11.35.47 [duration: 517] , slept for: 71
+
+ 91) start: 2018.03.26-11.36.58 , stop: 2018.03.26-11.42.47 [duration: 349] , slept for: 109
+
+ 92) start: 2018.03.26-11.44.36 , stop: 2018.03.26-11.57.35 [duration: 779] , slept for: 243
+
+ 93) start: 2018.03.26-12.01.38 , stop: 2018.03.26-12.11.14 [duration: 576] , slept for: 23
+
+ 94) start: 2018.03.26-12.11.37 , stop: 2018.03.26-12.24.59 [duration: 802] , slept for: 41
+
+ 95) start: 2018.03.26-12.25.40 , stop: 2018.03.26-12.37.56 [duration: 736] , slept for: 70
+
+ 96) start: 2018.03.26-12.39.06 , stop: 2018.03.26-12.41.20 [duration: 134] , slept for: 296
+
+ 97) start: 2018.03.26-12.46.16 , stop: 2018.03.26-12.59.41 [duration: 805] , slept for: 300
+
+ 98) start: 2018.03.26-13.04.41 , stop: 2018.03.26-13.11.01 [duration: 380] , slept for: 99
+
+ 99) start: 2018.03.26-13.12.40 , stop: 2018.03.26-13.24.43 [duration: 723] , slept for: 299
+
+ 100) start: 2018.03.26-13.29.42 , stop: 2018.03.26-13.44.29 [duration: 887] , slept for: 219
+
+ 101) start: 2018.03.26-13.48.08 , stop: 2018.03.26-14.01.00 [duration: 772] , slept for: 247
+
+ 102) start: 2018.03.26-14.05.07 , stop: 2018.03.26-14.16.51 [duration: 704] , slept for: 271
+
+ 103) start: 2018.03.26-14.21.22 , stop: 2018.03.26-14.35.23 [duration: 841] , slept for: 45
+
+ 104) start: 2018.03.26-14.36.08 , stop: 2018.03.26-14.41.33 [duration: 325] , slept for: 149
+
+ 105) start: 2018.03.26-14.44.02 , stop: 2018.03.26-14.53.45 [duration: 583] , slept for: 92
+
+ 106) start: 2018.03.26-14.55.17 , stop: 2018.03.26-15.09.38 [duration: 861] , slept for: 170
+
+ 107) start: 2018.03.26-15.12.29 , stop: 2018.03.26-15.25.51 [duration: 802] , slept for: 273
+
+ 108) start: 2018.03.26-15.30.24 , stop: 2018.03.26-15.35.04 [duration: 280] , slept for: 261
+
+ 109) start: 2018.03.26-15.39.25 , stop: 2018.03.26-15.53.23 [duration: 838] , slept for: 14
+
+ 110) start: 2018.03.26-15.53.37 , stop: 2018.03.26-15.59.34 [duration: 357] , slept for: 292
+
+ 111) start: 2018.03.26-16.04.26 , stop: 2018.03.26-16.05.16 [duration: 50] , slept for: 44
+
+ 112) start: 2018.03.26-16.06.00 , stop: 2018.03.26-16.14.51 [duration: 531] , slept for: 104
+
+ 113) start: 2018.03.26-16.16.35 , stop: 2018.03.26-16.29.37 [duration: 782] , slept for: 85
+
+ 114) start: 2018.03.26-16.31.02 , stop: 2018.03.26-16.36.04 [duration: 302] , slept for: 166
+
+ 115) start: 2018.03.26-16.38.50 , stop: 2018.03.26-16.46.25 [duration: 455] , slept for: 49
+
+ 116) start: 2018.03.26-16.47.14 , stop: 2018.03.26-16.56.26 [duration: 552] , slept for: 276

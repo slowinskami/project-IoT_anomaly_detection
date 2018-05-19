@@ -1,0 +1,1769 @@
+
+ !*!*! Starting Deauth attacks
+ !*!*! Starting Deauth attacks
+ !*!*! Starting Deauth attacks
+ 1) SCAN start: 2018.03.24-16.57.22 , stop: 2018.03.24-16.57.53 [31] 
+
+ !*!*! Starting Deauth attacks
+ !*!*! Starting Deauth attacks
+ !*!*! Starting Deauth attacks
+ !*!*! Starting Deauth attacks
+2018.03.24-17.27.21 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+
+2018.03.24-17.30.34 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+*************** 2018.03.24-17.30.34 STARTING deauth 1
+
+2018.03.24-17.32.31 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+*************** 2018.03.24-17.32.31 STARTING deauth 1
+
+2018.03.24-17.36.03 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+*************** 2018.03.24-17.36.03 STARTING deauth 1
+
+2018.03.24-17.36.59 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+*************** 2018.03.24-17.36.59 STARTING deauth 1
+
+2018.03.24-17.39.21 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+*************** 2018.03.24-17.39.21 STARTING deauth 1
+deauth on plug for 125 seconds 
+
+2018.03.24-17.39.43 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+*************** 2018.03.24-17.39.43 STARTING deauth 1
+deauth on plug for 12 seconds 
+Deauth on a 1 plug start: 2018.03.24-17.39.43, finish: 2018.03.24-17.39.55\n
+*************** 2018.03.24-17.39.56 STARTING deauth 2
+deauth on lamp for 7 seconds
+sleeping for 138 seconds
+
+2018.03.24-17.40.37 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+*************** 2018.03.24-17.40.37 STARTING deauth 1
+deauth on plug for 11 seconds 
+Deauth on a 1 plug start: 2018.03.24-17.40.37, finish: 2018.03.24-17.40.48\n
+*************** 2018.03.24-17.40.48 STARTING deauth 2
+deauth on lamp for 11 seconds
+sleeping for 15 seconds
+Deauth on a 2 lamp start: 2018.03.24-17.40.48, finish: 2018.03.24-17.41.14\n
+*************** 2018.03.24-17.41.14 STARTING deauth 3
+deauth on lamp for 14 seconds
+sleeping for 16 seconds
+Deauth on a 3 lamp start: 2018.03.24-17.41.14, finish: 2018.03.24-17.41.44\n
+*************** 2018.03.24-17.41.44 STARTING deauth 4
+deauth on lamp for 11 seconds
+sleeping for 20 seconds
+
+2018.03.24-17.42.22 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+*************** 2018.03.24-17.42.22 STARTING deauth 1
+deauth on lamp for 17 seconds
+sleeping for 6 seconds
+Deauth on a 1 lamp start: 2018.03.24-17.42.22, finish: 2018.03.24-17.42.45\n
+*************** 2018.03.24-17.42.45 STARTING deauth 2
+deauth on plug for 12 seconds 
+sleeping for 11 seconds
+Deauth on a 2 plug start: 2018.03.24-17.42.45, finish: 2018.03.24-17.43.08\n
+*************** 2018.03.24-17.43.08 STARTING deauth 3
+deauth on lamp for 8 seconds
+sleeping for 8 seconds
+
+2018.03.24-17.43.42 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+\n \n *************** 2018.03.24-17.43.42 STARTING deauth 1
+deauth on lamp for 20 seconds
+
+2018.03.24-17.44.16 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+
+
+ *************** 2018.03.24-17.44.16 STARTING deauth 1deauth on plug for 12 seconds 
+
+2018.03.24-17.44.39 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+
+
+ *************** 2018.03.24-17.44.39 STARTING deauth 1deauth on lamp for 10 seconds
+sleeping for 17 seconds
+Deauth on a 1 lamp start: 2018.03.24-17.44.39, finish: 2018.03.24-17.45.06
+
+
+ *************** 2018.03.24-17.45.06 STARTING deauth 2deauth on lamp for 17 seconds
+sleeping for 5 seconds
+
+2018.03.24-17.45.50 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+
+
+ *************** 2018.03.24-17.45.50 STARTING deauth 1deauth on lamp for 14 seconds
+
+2018.03.24-17.47.15 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+
+
+ *************** 2018.03.24-17.47.15 STARTING 1deauth on lamp for 9 seconds
+
+2018.03.24-17.47.35 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+
+
+ *************** 2018.03.24-17.47.35 STARTING iteration 1 : deauth on lamp for 12 seconds
+
+
+sleeping for 11 seconds
+
+2018.03.24-17.47.56 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+
+
+ * 2018.03.24-17.47.56 STARTING iteration 1 : deauth on lamp for 10 seconds
+
+
+sleeping for 7 seconds
+Deauth on a 1 lamp start: 2018.03.24-17.47.56, finish: 2018.03.24-17.48.13
+
+
+ * 2018.03.24-17.48.13 STARTING iteration 2 : deauth on lamp for 13 seconds
+
+
+sleeping for 15 seconds
+Deauth on a 2 lamp start: 2018.03.24-17.48.13, finish: 2018.03.24-17.48.41
+
+
+ * 2018.03.24-17.48.41 STARTING iteration 3 : deauth on lamp for 7 seconds
+
+
+sleeping for 20 seconds
+Deauth on a 3 lamp start: 2018.03.24-17.48.41, finish: 2018.03.24-17.49.08
+
+
+ * 2018.03.24-17.49.08 STARTING iteration 4 : deauth on plug for 11 seconds 
+
+2018.03.24-17.49.26 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+
+
+ * 2018.03.24-17.49.26 STARTING iteration 1 : deauth on lamp for 18 seconds
+
+
+sleeping for 8 seconds
+1) Deauth on a lamp start: 2018.03.24-17.49.26, finish: 2018.03.24-17.49.52
+
+
+ * 2018.03.24-17.49.52 STARTING iteration 2 : deauth on plug for 155 seconds 
+
+
+sleeping for 18 seconds
+2) Deauth on a plug start: 2018.03.24-17.49.52, finish: 2018.03.24-17.52.45
+
+
+ * 2018.03.24-17.52.45 STARTING iteration 3 : deauth on plug for 87 seconds 
+
+
+sleeping for 43 seconds
+3) Deauth on a plug start: 2018.03.24-17.52.45, finish: 2018.03.24-17.54.55
+
+
+ * 2018.03.24-17.54.55 STARTING iteration 4 : deauth on plug for 46 seconds 
+
+
+sleeping for 51 seconds
+4) Deauth on a plug start: 2018.03.24-17.54.55, finish: 2018.03.24-17.56.32
+
+
+ * 2018.03.24-17.56.32 STARTING iteration 5 : deauth on lamp for 241 seconds
+
+
+sleeping for 153 seconds
+5) Deauth on a lamp start: 2018.03.24-17.56.32, finish: 2018.03.24-18.03.06
+
+
+ * 2018.03.24-18.03.06 STARTING iteration 6 : deauth on lamp for 32 seconds
+
+
+sleeping for 170 seconds
+6) Deauth on a lamp start: 2018.03.24-18.03.06, finish: 2018.03.24-18.06.28
+
+
+ * 2018.03.24-18.06.28 STARTING iteration 7 : deauth on lamp for 50 seconds
+
+
+sleeping for 132 seconds
+7) Deauth on a lamp start: 2018.03.24-18.06.28, finish: 2018.03.24-18.09.30
+
+
+ * 2018.03.24-18.09.30 STARTING iteration 8 : deauth on lamp for 256 seconds
+
+
+sleeping for 71 seconds
+8) Deauth on a lamp start: 2018.03.24-18.09.30, finish: 2018.03.24-18.14.57
+
+
+ * 2018.03.24-18.14.57 STARTING iteration 9 : deauth on plug for 208 seconds 
+
+2018.03.24-18.15.32 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+
+2018.03.24-18.16.01 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+1) Deauth on a lamp start: 2018.03.24-18.16.01, finish: 
+
+
+sleeping for 96 seconds
+2) Deauth on a plug start: 2018.03.24-18.20.58, finish: 2018.03.24-18.20.58
+
+
+sleeping for 193 seconds
+3) Deauth on a plug start: 2018.03.24-18.25.29, finish: 2018.03.24-18.25.29
+
+
+sleeping for 182 seconds
+4) Deauth on a lamp start: 2018.03.24-18.31.05, finish: 2018.03.24-18.31.05
+
+
+sleeping for 175 seconds
+5) Deauth on a plug start: 2018.03.24-18.37.32, finish: 2018.03.24-18.37.32
+
+
+sleeping for 123 seconds
+6) Deauth on a plug start: 2018.03.24-18.41.53, finish: 2018.03.24-18.41.53
+
+
+sleeping for 34 seconds
+7) Deauth on a lamp start: 2018.03.24-18.45.02, finish: 2018.03.24-18.45.02
+
+
+sleeping for 33 seconds
+8) Deauth on a lamp start: 2018.03.24-18.47.57, finish: 2018.03.24-18.47.57
+
+
+sleeping for 175 seconds
+9) Deauth on a plug start: 2018.03.24-18.51.31, finish: 2018.03.24-18.51.31
+
+
+sleeping for 172 seconds
+10) Deauth on a lamp start: 2018.03.24-18.54.53, finish: 2018.03.24-18.54.53
+
+
+sleeping for 18 seconds
+11) Deauth on a plug start: 2018.03.24-18.58.11, finish: 2018.03.24-18.58.11
+
+
+sleeping for 146 seconds
+12) Deauth on a lamp start: 2018.03.24-19.04.12, finish: 2018.03.24-19.04.12
+
+
+sleeping for 142 seconds
+13) Deauth on a plug start: 2018.03.24-19.11.24, finish: 2018.03.24-19.11.24
+
+
+sleeping for 14 seconds
+14) Deauth on a lamp start: 2018.03.24-19.12.33, finish: 2018.03.24-19.12.33
+
+
+sleeping for 49 seconds
+15) Deauth on a plug start: 2018.03.24-19.16.42, finish: 2018.03.24-19.16.42
+
+
+sleeping for 185 seconds
+16) Deauth on a plug start: 2018.03.24-19.21.26, finish: 2018.03.24-19.21.26
+
+
+sleeping for 70 seconds
+17) Deauth on a lamp start: 2018.03.24-19.26.13, finish: 2018.03.24-19.26.13
+
+
+sleeping for 102 seconds
+18) Deauth on a plug start: 2018.03.24-19.32.52, finish: 2018.03.24-19.32.52
+
+
+sleeping for 114 seconds
+19) Deauth on a lamp start: 2018.03.24-19.38.07, finish: 2018.03.24-19.38.07
+
+
+sleeping for 47 seconds
+20) Deauth on a plug start: 2018.03.24-19.40.24, finish: 2018.03.24-19.40.24
+
+
+sleeping for 9 seconds
+21) Deauth on a plug start: 2018.03.24-19.44.25, finish: 2018.03.24-19.44.25
+
+
+sleeping for 146 seconds
+22) Deauth on a lamp start: 2018.03.24-19.50.05, finish: 2018.03.24-19.50.05
+
+
+sleeping for 34 seconds
+23) Deauth on a lamp start: 2018.03.24-19.54.08, finish: 2018.03.24-19.54.08
+
+
+sleeping for 14 seconds
+24) Deauth on a lamp start: 2018.03.24-19.57.10, finish: 2018.03.24-19.57.10
+
+
+sleeping for 137 seconds
+25) Deauth on a plug start: 2018.03.24-19.59.50, finish: 2018.03.24-19.59.50
+
+
+sleeping for 84 seconds
+26) Deauth on a plug start: 2018.03.24-20.04.48, finish: 2018.03.24-20.04.48
+
+
+sleeping for 27 seconds
+27) Deauth on a lamp start: 2018.03.24-20.09.15, finish: 2018.03.24-20.09.15
+
+
+sleeping for 125 seconds
+28) Deauth on a plug start: 2018.03.24-20.11.43, finish: 2018.03.24-20.11.43
+
+
+sleeping for 80 seconds
+29) Deauth on a lamp start: 2018.03.24-20.14.07, finish: 2018.03.24-20.14.07
+
+
+sleeping for 179 seconds
+30) Deauth on a lamp start: 2018.03.24-20.21.17, finish: 2018.03.24-20.21.17
+
+
+sleeping for 95 seconds
+31) Deauth on a lamp start: 2018.03.24-20.25.09, finish: 2018.03.24-20.25.09
+
+
+sleeping for 116 seconds
+32) Deauth on a lamp start: 2018.03.24-20.31.36, finish: 2018.03.24-20.31.36
+
+
+sleeping for 199 seconds
+33) Deauth on a plug start: 2018.03.24-20.35.22, finish: 2018.03.24-20.35.22
+
+
+sleeping for 40 seconds
+34) Deauth on a lamp start: 2018.03.24-20.39.39, finish: 2018.03.24-20.39.39
+
+
+sleeping for 108 seconds
+35) Deauth on a lamp start: 2018.03.24-20.44.43, finish: 2018.03.24-20.44.43
+
+
+sleeping for 163 seconds
+36) Deauth on a plug start: 2018.03.24-20.48.10, finish: 2018.03.24-20.48.10
+
+
+sleeping for 153 seconds
+37) Deauth on a plug start: 2018.03.24-20.51.32, finish: 2018.03.24-20.51.32
+
+
+sleeping for 8 seconds
+38) Deauth on a plug start: 2018.03.24-20.54.00, finish: 2018.03.24-20.54.00
+
+
+sleeping for 66 seconds
+39) Deauth on a lamp start: 2018.03.24-20.58.38, finish: 2018.03.24-20.58.38
+
+
+sleeping for 19 seconds
+40) Deauth on a plug start: 2018.03.24-21.02.38, finish: 2018.03.24-21.02.38
+
+
+sleeping for 184 seconds
+41) Deauth on a lamp start: 2018.03.24-21.07.44, finish: 2018.03.24-21.07.44
+
+
+sleeping for 79 seconds
+42) Deauth on a lamp start: 2018.03.24-21.13.46, finish: 2018.03.24-21.13.46
+
+
+sleeping for 82 seconds
+43) Deauth on a plug start: 2018.03.24-21.16.19, finish: 2018.03.24-21.16.19
+
+
+sleeping for 59 seconds
+44) Deauth on a plug start: 2018.03.24-21.20.44, finish: 2018.03.24-21.20.44
+
+
+sleeping for 97 seconds
+45) Deauth on a lamp start: 2018.03.24-21.25.24, finish: 2018.03.24-21.25.24
+
+
+sleeping for 88 seconds
+46) Deauth on a plug start: 2018.03.24-21.28.08, finish: 2018.03.24-21.28.08
+
+
+sleeping for 32 seconds
+47) Deauth on a plug start: 2018.03.24-21.30.12, finish: 2018.03.24-21.30.12
+
+
+sleeping for 118 seconds
+48) Deauth on a lamp start: 2018.03.24-21.35.36, finish: 2018.03.24-21.35.36
+
+
+sleeping for 103 seconds
+49) Deauth on a plug start: 2018.03.24-21.39.52, finish: 2018.03.24-21.39.52
+
+
+sleeping for 27 seconds
+50) Deauth on a plug start: 2018.03.24-21.43.33, finish: 2018.03.24-21.43.33
+
+
+sleeping for 176 seconds
+51) Deauth on a lamp start: 2018.03.24-21.49.15, finish: 2018.03.24-21.49.15
+
+
+sleeping for 170 seconds
+52) Deauth on a plug start: 2018.03.24-21.56.45, finish: 2018.03.24-21.56.45
+
+
+sleeping for 174 seconds
+53) Deauth on a lamp start: 2018.03.24-22.01.16, finish: 2018.03.24-22.01.16
+
+
+sleeping for 186 seconds
+54) Deauth on a plug start: 2018.03.24-22.08.19, finish: 2018.03.24-22.08.19
+
+
+sleeping for 120 seconds
+55) Deauth on a plug start: 2018.03.24-22.11.15, finish: 2018.03.24-22.11.15
+
+
+sleeping for 186 seconds
+56) Deauth on a lamp start: 2018.03.24-22.18.24, finish: 2018.03.24-22.18.24
+
+
+sleeping for 57 seconds
+57) Deauth on a plug start: 2018.03.24-22.22.11, finish: 2018.03.24-22.22.11
+
+
+sleeping for 63 seconds
+58) Deauth on a plug start: 2018.03.24-22.27.38, finish: 2018.03.24-22.27.38
+
+
+sleeping for 189 seconds
+59) Deauth on a plug start: 2018.03.24-22.34.34, finish: 2018.03.24-22.34.34
+
+
+sleeping for 76 seconds
+60) Deauth on a plug start: 2018.03.24-22.37.37, finish: 2018.03.24-22.37.37
+
+
+sleeping for 135 seconds
+61) Deauth on a plug start: 2018.03.24-22.42.30, finish: 2018.03.24-22.42.30
+
+
+sleeping for 55 seconds
+62) Deauth on a lamp start: 2018.03.24-22.46.19, finish: 2018.03.24-22.46.19
+
+
+sleeping for 83 seconds
+63) Deauth on a plug start: 2018.03.24-22.51.54, finish: 2018.03.24-22.51.54
+
+
+sleeping for 44 seconds
+64) Deauth on a lamp start: 2018.03.24-22.57.38, finish: 2018.03.24-22.57.38
+
+
+sleeping for 153 seconds
+65) Deauth on a plug start: 2018.03.24-23.04.42, finish: 2018.03.24-23.04.42
+
+
+sleeping for 35 seconds
+66) Deauth on a plug start: 2018.03.24-23.09.55, finish: 2018.03.24-23.09.55
+
+
+sleeping for 127 seconds
+67) Deauth on a plug start: 2018.03.24-23.12.17, finish: 2018.03.24-23.12.17
+
+
+sleeping for 38 seconds
+68) Deauth on a plug start: 2018.03.24-23.16.58, finish: 2018.03.24-23.16.58
+
+
+sleeping for 183 seconds
+69) Deauth on a lamp start: 2018.03.24-23.24.31, finish: 2018.03.24-23.24.31
+
+
+sleeping for 69 seconds
+70) Deauth on a lamp start: 2018.03.24-23.27.50, finish: 2018.03.24-23.27.50
+
+
+sleeping for 147 seconds
+71) Deauth on a lamp start: 2018.03.24-23.30.35, finish: 2018.03.24-23.30.35
+
+
+sleeping for 174 seconds
+72) Deauth on a lamp start: 2018.03.24-23.37.21, finish: 2018.03.24-23.37.21
+
+
+sleeping for 88 seconds
+73) Deauth on a lamp start: 2018.03.24-23.40.14, finish: 2018.03.24-23.40.14
+
+
+sleeping for 140 seconds
+74) Deauth on a lamp start: 2018.03.24-23.43.39, finish: 2018.03.24-23.43.39
+
+
+sleeping for 128 seconds
+75) Deauth on a plug start: 2018.03.24-23.50.04, finish: 2018.03.24-23.50.04
+
+
+sleeping for 103 seconds
+76) Deauth on a plug start: 2018.03.24-23.55.21, finish: 2018.03.24-23.55.21
+
+
+sleeping for 169 seconds
+77) Deauth on a plug start: 2018.03.24-23.59.27, finish: 2018.03.24-23.59.27
+
+
+sleeping for 178 seconds
+78) Deauth on a lamp start: 2018.03.25-00.03.00, finish: 2018.03.25-00.03.00
+
+
+sleeping for 118 seconds
+79) Deauth on a plug start: 2018.03.25-00.09.06, finish: 2018.03.25-00.09.06
+
+
+sleeping for 17 seconds
+80) Deauth on a plug start: 2018.03.25-00.14.13, finish: 2018.03.25-00.14.13
+
+
+sleeping for 165 seconds
+81) Deauth on a plug start: 2018.03.25-00.17.38, finish: 2018.03.25-00.17.38
+
+
+sleeping for 185 seconds
+82) Deauth on a plug start: 2018.03.25-00.24.08, finish: 2018.03.25-00.24.08
+
+
+sleeping for 42 seconds
+83) Deauth on a lamp start: 2018.03.25-00.25.59, finish: 2018.03.25-00.25.59
+
+
+sleeping for 144 seconds
+84) Deauth on a lamp start: 2018.03.25-00.31.42, finish: 2018.03.25-00.31.42
+
+
+sleeping for 151 seconds
+85) Deauth on a lamp start: 2018.03.25-00.35.52, finish: 2018.03.25-00.35.52
+
+
+sleeping for 26 seconds
+86) Deauth on a plug start: 2018.03.25-00.36.48, finish: 2018.03.25-00.36.48
+
+
+sleeping for 14 seconds
+87) Deauth on a lamp start: 2018.03.25-00.41.07, finish: 2018.03.25-00.41.07
+
+
+sleeping for 54 seconds
+88) Deauth on a lamp start: 2018.03.25-00.45.30, finish: 2018.03.25-00.45.30
+
+
+sleeping for 85 seconds
+89) Deauth on a plug start: 2018.03.25-00.47.12, finish: 2018.03.25-00.47.12
+
+
+sleeping for 122 seconds
+90) Deauth on a lamp start: 2018.03.25-00.51.21, finish: 2018.03.25-00.51.21
+
+
+sleeping for 187 seconds
+91) Deauth on a plug start: 2018.03.25-00.58.51, finish: 2018.03.25-00.58.51
+
+
+sleeping for 84 seconds
+92) Deauth on a plug start: 2018.03.25-02.03.39, finish: 2018.03.25-02.03.39
+
+
+sleeping for 45 seconds
+93) Deauth on a lamp start: 2018.03.25-02.07.06, finish: 2018.03.25-02.07.06
+
+
+sleeping for 97 seconds
+94) Deauth on a lamp start: 2018.03.25-02.12.50, finish: 2018.03.25-02.12.50
+
+
+sleeping for 112 seconds
+95) Deauth on a lamp start: 2018.03.25-02.18.23, finish: 2018.03.25-02.18.23
+
+
+sleeping for 18 seconds
+96) Deauth on a lamp start: 2018.03.25-02.22.57, finish: 2018.03.25-02.22.57
+
+
+sleeping for 68 seconds
+97) Deauth on a lamp start: 2018.03.25-02.25.42, finish: 2018.03.25-02.25.42
+
+
+sleeping for 176 seconds
+98) Deauth on a lamp start: 2018.03.25-02.29.03, finish: 2018.03.25-02.29.03
+
+
+sleeping for 122 seconds
+99) Deauth on a lamp start: 2018.03.25-02.32.02, finish: 2018.03.25-02.32.02
+
+
+sleeping for 156 seconds
+100) Deauth on a plug start: 2018.03.25-02.34.58, finish: 2018.03.25-02.34.58
+
+
+sleeping for 98 seconds
+101) Deauth on a plug start: 2018.03.25-02.38.12, finish: 2018.03.25-02.38.12
+
+
+sleeping for 37 seconds
+102) Deauth on a plug start: 2018.03.25-02.39.20, finish: 2018.03.25-02.39.20
+
+
+sleeping for 123 seconds
+103) Deauth on a plug start: 2018.03.25-02.43.07, finish: 2018.03.25-02.43.07
+
+
+sleeping for 40 seconds
+104) Deauth on a plug start: 2018.03.25-02.44.27, finish: 2018.03.25-02.44.27
+
+
+sleeping for 161 seconds
+105) Deauth on a plug start: 2018.03.25-02.49.03, finish: 2018.03.25-02.49.03
+
+
+sleeping for 165 seconds
+106) Deauth on a plug start: 2018.03.25-02.55.08, finish: 2018.03.25-02.55.08
+
+
+sleeping for 178 seconds
+107) Deauth on a plug start: 2018.03.25-03.01.06, finish: 2018.03.25-03.01.06
+
+
+sleeping for 104 seconds
+108) Deauth on a lamp start: 2018.03.25-03.05.35, finish: 2018.03.25-03.05.35
+
+
+sleeping for 187 seconds
+109) Deauth on a lamp start: 2018.03.25-03.11.19, finish: 2018.03.25-03.11.19
+
+
+sleeping for 168 seconds
+110) Deauth on a plug start: 2018.03.25-03.17.40, finish: 2018.03.25-03.17.40
+
+
+sleeping for 187 seconds
+111) Deauth on a lamp start: 2018.03.25-03.21.13, finish: 2018.03.25-03.21.13
+
+
+sleeping for 71 seconds
+112) Deauth on a plug start: 2018.03.25-03.24.37, finish: 2018.03.25-03.24.37
+
+
+sleeping for 68 seconds
+113) Deauth on a lamp start: 2018.03.25-03.27.48, finish: 2018.03.25-03.27.48
+
+
+sleeping for 96 seconds
+114) Deauth on a lamp start: 2018.03.25-03.30.24, finish: 2018.03.25-03.30.24
+
+
+sleeping for 75 seconds
+115) Deauth on a plug start: 2018.03.25-03.33.18, finish: 2018.03.25-03.33.18
+
+
+sleeping for 34 seconds
+116) Deauth on a lamp start: 2018.03.25-03.36.18, finish: 2018.03.25-03.36.18
+
+
+sleeping for 180 seconds
+117) Deauth on a plug start: 2018.03.25-03.42.46, finish: 2018.03.25-03.42.46
+
+
+sleeping for 32 seconds
+118) Deauth on a lamp start: 2018.03.25-03.44.03, finish: 2018.03.25-03.44.03
+
+
+sleeping for 7 seconds
+119) Deauth on a lamp start: 2018.03.25-03.46.19, finish: 2018.03.25-03.46.19
+
+
+sleeping for 197 seconds
+120) Deauth on a plug start: 2018.03.25-03.52.31, finish: 2018.03.25-03.52.31
+
+
+sleeping for 137 seconds
+121) Deauth on a plug start: 2018.03.25-03.55.52, finish: 2018.03.25-03.55.52
+
+
+sleeping for 23 seconds
+122) Deauth on a plug start: 2018.03.25-03.59.09, finish: 2018.03.25-03.59.09
+
+
+sleeping for 196 seconds
+123) Deauth on a lamp start: 2018.03.25-04.06.49, finish: 2018.03.25-04.06.49
+
+
+sleeping for 107 seconds
+124) Deauth on a plug start: 2018.03.25-04.13.36, finish: 2018.03.25-04.13.36
+
+
+sleeping for 180 seconds
+125) Deauth on a plug start: 2018.03.25-04.20.14, finish: 2018.03.25-04.20.14
+
+
+sleeping for 5 seconds
+126) Deauth on a lamp start: 2018.03.25-04.21.16, finish: 2018.03.25-04.21.16
+
+
+sleeping for 29 seconds
+127) Deauth on a lamp start: 2018.03.25-04.23.50, finish: 2018.03.25-04.23.50
+
+
+sleeping for 67 seconds
+128) Deauth on a plug start: 2018.03.25-04.29.30, finish: 2018.03.25-04.29.30
+
+
+sleeping for 180 seconds
+129) Deauth on a plug start: 2018.03.25-04.37.05, finish: 2018.03.25-04.37.05
+
+
+sleeping for 73 seconds
+130) Deauth on a lamp start: 2018.03.25-04.43.00, finish: 2018.03.25-04.43.00
+
+
+sleeping for 125 seconds
+131) Deauth on a lamp start: 2018.03.25-04.46.38, finish: 2018.03.25-04.46.38
+
+
+sleeping for 127 seconds
+132) Deauth on a plug start: 2018.03.25-04.52.38, finish: 2018.03.25-04.52.38
+
+
+sleeping for 162 seconds
+133) Deauth on a lamp start: 2018.03.25-04.58.53, finish: 2018.03.25-04.58.53
+
+
+sleeping for 6 seconds
+134) Deauth on a lamp start: 2018.03.25-04.59.30, finish: 2018.03.25-04.59.30
+
+
+sleeping for 76 seconds
+135) Deauth on a lamp start: 2018.03.25-05.04.16, finish: 2018.03.25-05.04.16
+
+
+sleeping for 73 seconds
+136) Deauth on a lamp start: 2018.03.25-05.05.34, finish: 2018.03.25-05.05.34
+
+
+sleeping for 44 seconds
+137) Deauth on a plug start: 2018.03.25-05.10.05, finish: 2018.03.25-05.10.05
+
+
+sleeping for 120 seconds
+138) Deauth on a lamp start: 2018.03.25-05.13.28, finish: 2018.03.25-05.13.28
+
+
+sleeping for 68 seconds
+139) Deauth on a lamp start: 2018.03.25-05.17.23, finish: 2018.03.25-05.17.23
+
+
+sleeping for 190 seconds
+140) Deauth on a plug start: 2018.03.25-05.22.18, finish: 2018.03.25-05.22.18
+
+
+sleeping for 90 seconds
+141) Deauth on a plug start: 2018.03.25-05.28.46, finish: 2018.03.25-05.28.46
+
+
+sleeping for 162 seconds
+142) Deauth on a plug start: 2018.03.25-05.33.31, finish: 2018.03.25-05.33.31
+
+
+sleeping for 146 seconds
+143) Deauth on a lamp start: 2018.03.25-05.39.44, finish: 2018.03.25-05.39.44
+
+
+sleeping for 15 seconds
+144) Deauth on a lamp start: 2018.03.25-05.41.53, finish: 2018.03.25-05.41.53
+
+
+sleeping for 121 seconds
+145) Deauth on a lamp start: 2018.03.25-05.46.04, finish: 2018.03.25-05.46.04
+
+
+sleeping for 156 seconds
+146) Deauth on a plug start: 2018.03.25-05.50.49, finish: 2018.03.25-05.50.49
+
+
+sleeping for 105 seconds
+147) Deauth on a lamp start: 2018.03.25-05.55.30, finish: 2018.03.25-05.55.30
+
+
+sleeping for 139 seconds
+148) Deauth on a lamp start: 2018.03.25-06.02.22, finish: 2018.03.25-06.02.22
+
+
+sleeping for 49 seconds
+149) Deauth on a lamp start: 2018.03.25-06.06.21, finish: 2018.03.25-06.06.21
+
+
+sleeping for 144 seconds
+150) Deauth on a lamp start: 2018.03.25-06.11.26, finish: 2018.03.25-06.11.26
+
+
+sleeping for 61 seconds
+151) Deauth on a plug start: 2018.03.25-06.17.19, finish: 2018.03.25-06.17.18
+
+
+sleeping for 84 seconds
+152) Deauth on a lamp start: 2018.03.25-06.22.42, finish: 2018.03.25-06.22.42
+
+
+sleeping for 177 seconds
+153) Deauth on a plug start: 2018.03.25-06.26.00, finish: 2018.03.25-06.26.00
+
+
+sleeping for 150 seconds
+154) Deauth on a lamp start: 2018.03.25-06.30.33, finish: 2018.03.25-06.30.33
+
+
+sleeping for 11 seconds
+155) Deauth on a lamp start: 2018.03.25-06.31.43, finish: 2018.03.25-06.31.43
+
+
+sleeping for 166 seconds
+156) Deauth on a plug start: 2018.03.25-06.35.42, finish: 2018.03.25-06.35.42
+
+
+sleeping for 134 seconds
+157) Deauth on a lamp start: 2018.03.25-06.38.46, finish: 2018.03.25-06.38.46
+
+
+sleeping for 141 seconds
+158) Deauth on a plug start: 2018.03.25-06.45.54, finish: 2018.03.25-06.45.54
+
+
+sleeping for 25 seconds
+159) Deauth on a lamp start: 2018.03.25-06.50.33, finish: 2018.03.25-06.50.33
+
+
+sleeping for 12 seconds
+160) Deauth on a plug start: 2018.03.25-06.51.02, finish: 2018.03.25-06.51.02
+
+
+sleeping for 190 seconds
+161) Deauth on a lamp start: 2018.03.25-06.56.14, finish: 2018.03.25-06.56.14
+
+
+sleeping for 78 seconds
+162) Deauth on a plug start: 2018.03.25-07.00.30, finish: 2018.03.25-07.00.30
+
+
+sleeping for 185 seconds
+163) Deauth on a lamp start: 2018.03.25-07.07.33, finish: 2018.03.25-07.07.33
+
+
+sleeping for 166 seconds
+164) Deauth on a lamp start: 2018.03.25-07.11.26, finish: 2018.03.25-07.11.26
+
+
+sleeping for 93 seconds
+165) Deauth on a lamp start: 2018.03.25-07.14.19, finish: 2018.03.25-07.14.19
+
+
+sleeping for 146 seconds
+166) Deauth on a plug start: 2018.03.25-07.16.57, finish: 2018.03.25-07.16.57
+
+
+sleeping for 124 seconds
+167) Deauth on a plug start: 2018.03.25-07.23.43, finish: 2018.03.25-07.23.43
+
+
+sleeping for 150 seconds
+168) Deauth on a plug start: 2018.03.25-07.29.39, finish: 2018.03.25-07.29.39
+
+
+sleeping for 151 seconds
+169) Deauth on a lamp start: 2018.03.25-07.35.39, finish: 2018.03.25-07.35.39
+
+
+sleeping for 191 seconds
+170) Deauth on a plug start: 2018.03.25-07.41.57, finish: 2018.03.25-07.41.57
+
+
+sleeping for 67 seconds
+171) Deauth on a plug start: 2018.03.25-07.45.58, finish: 2018.03.25-07.45.58
+
+
+sleeping for 13 seconds
+172) Deauth on a plug start: 2018.03.25-07.48.39, finish: 2018.03.25-07.48.39
+
+
+sleeping for 107 seconds
+173) Deauth on a plug start: 2018.03.25-07.50.39, finish: 2018.03.25-07.50.39
+
+
+sleeping for 151 seconds
+174) Deauth on a plug start: 2018.03.25-07.53.57, finish: 2018.03.25-07.53.57
+
+
+sleeping for 69 seconds
+175) Deauth on a lamp start: 2018.03.25-07.57.57, finish: 2018.03.25-07.57.57
+
+
+sleeping for 97 seconds
+176) Deauth on a plug start: 2018.03.25-08.00.34, finish: 2018.03.25-08.00.34
+
+
+sleeping for 147 seconds
+177) Deauth on a lamp start: 2018.03.25-08.03.48, finish: 2018.03.25-08.03.48
+
+
+sleeping for 107 seconds
+178) Deauth on a plug start: 2018.03.25-08.09.47, finish: 2018.03.25-08.09.47
+
+
+sleeping for 151 seconds
+179) Deauth on a lamp start: 2018.03.25-08.12.33, finish: 2018.03.25-08.12.33
+
+
+sleeping for 103 seconds
+180) Deauth on a lamp start: 2018.03.25-08.17.19, finish: 2018.03.25-08.17.19
+
+
+sleeping for 95 seconds
+181) Deauth on a plug start: 2018.03.25-08.22.16, finish: 2018.03.25-08.22.16
+
+
+sleeping for 73 seconds
+182) Deauth on a plug start: 2018.03.25-08.25.09, finish: 2018.03.25-08.25.09
+
+
+sleeping for 196 seconds
+183) Deauth on a lamp start: 2018.03.25-08.29.23, finish: 2018.03.25-08.29.23
+
+
+sleeping for 59 seconds
+184) Deauth on a lamp start: 2018.03.25-08.33.46, finish: 2018.03.25-08.33.46
+
+
+sleeping for 39 seconds
+185) Deauth on a lamp start: 2018.03.25-08.35.42, finish: 2018.03.25-08.35.42
+
+
+sleeping for 191 seconds
+186) Deauth on a plug start: 2018.03.25-08.43.08, finish: 2018.03.25-08.43.08
+
+
+sleeping for 187 seconds
+187) Deauth on a plug start: 2018.03.25-08.47.48, finish: 2018.03.25-08.47.48
+
+
+sleeping for 190 seconds
+188) Deauth on a lamp start: 2018.03.25-08.52.43, finish: 2018.03.25-08.52.43
+
+
+sleeping for 199 seconds
+189) Deauth on a plug start: 2018.03.25-08.57.24, finish: 2018.03.25-08.57.24
+
+
+sleeping for 181 seconds
+190) Deauth on a plug start: 2018.03.25-09.01.41, finish: 2018.03.25-09.01.41
+
+
+sleeping for 192 seconds
+191) Deauth on a plug start: 2018.03.25-09.06.21, finish: 2018.03.25-09.06.21
+
+
+sleeping for 9 seconds
+192) Deauth on a lamp start: 2018.03.25-09.10.21, finish: 2018.03.25-09.10.21
+
+
+sleeping for 103 seconds
+193) Deauth on a lamp start: 2018.03.25-09.16.34, finish: 2018.03.25-09.16.34
+
+
+sleeping for 18 seconds
+194) Deauth on a lamp start: 2018.03.25-09.21.09, finish: 2018.03.25-09.21.09
+
+
+sleeping for 74 seconds
+195) Deauth on a plug start: 2018.03.25-09.27.00, finish: 2018.03.25-09.27.00
+
+
+sleeping for 180 seconds
+196) Deauth on a plug start: 2018.03.25-09.34.31, finish: 2018.03.25-09.34.31
+
+
+sleeping for 97 seconds
+197) Deauth on a plug start: 2018.03.25-09.36.57, finish: 2018.03.25-09.36.57
+
+
+sleeping for 91 seconds
+198) Deauth on a lamp start: 2018.03.25-09.41.01, finish: 2018.03.25-09.41.01
+
+
+sleeping for 145 seconds
+199) Deauth on a plug start: 2018.03.25-09.46.13, finish: 2018.03.25-09.46.13
+
+
+sleeping for 54 seconds
+200) Deauth on a plug start: 2018.03.25-09.51.12, finish: 2018.03.25-09.51.12
+
+
+sleeping for 13 seconds
+201) Deauth on a plug start: 2018.03.25-09.52.12, finish: 2018.03.25-09.52.12
+
+
+sleeping for 181 seconds
+202) Deauth on a lamp start: 2018.03.25-09.58.52, finish: 2018.03.25-09.58.52
+
+
+sleeping for 93 seconds
+203) Deauth on a lamp start: 2018.03.25-10.04.50, finish: 2018.03.25-10.04.50
+
+
+sleeping for 176 seconds
+204) Deauth on a plug start: 2018.03.25-10.09.10, finish: 2018.03.25-10.09.10
+
+
+sleeping for 186 seconds
+205) Deauth on a plug start: 2018.03.25-10.15.21, finish: 2018.03.25-10.15.21
+
+
+sleeping for 197 seconds
+206) Deauth on a lamp start: 2018.03.25-10.20.23, finish: 2018.03.25-10.20.23
+
+
+sleeping for 43 seconds
+207) Deauth on a lamp start: 2018.03.25-10.25.41, finish: 2018.03.25-10.25.41
+
+
+sleeping for 152 seconds
+208) Deauth on a lamp start: 2018.03.25-10.32.03, finish: 2018.03.25-10.32.03
+
+
+sleeping for 15 seconds
+209) Deauth on a plug start: 2018.03.25-10.32.35, finish: 2018.03.25-10.32.35
+
+
+sleeping for 153 seconds
+210) Deauth on a lamp start: 2018.03.25-10.39.57, finish: 2018.03.25-10.39.57
+
+
+sleeping for 9 seconds
+211) Deauth on a plug start: 2018.03.25-10.44.59, finish: 2018.03.25-10.44.59
+
+
+sleeping for 52 seconds
+212) Deauth on a plug start: 2018.03.25-10.48.46, finish: 2018.03.25-10.48.46
+
+
+sleeping for 168 seconds
+213) Deauth on a lamp start: 2018.03.25-10.53.18, finish: 2018.03.25-10.53.18
+
+
+sleeping for 182 seconds
+214) Deauth on a plug start: 2018.03.25-10.58.24, finish: 2018.03.25-10.58.24
+
+
+sleeping for 21 seconds
+215) Deauth on a lamp start: 2018.03.25-11.01.02, finish: 2018.03.25-11.01.02
+
+
+sleeping for 106 seconds
+216) Deauth on a lamp start: 2018.03.25-11.07.41, finish: 2018.03.25-11.07.41
+
+
+sleeping for 57 seconds
+217) Deauth on a lamp start: 2018.03.25-11.09.32, finish: 2018.03.25-11.09.32
+
+
+sleeping for 152 seconds
+218) Deauth on a lamp start: 2018.03.25-11.12.09, finish: 2018.03.25-11.12.09
+
+
+sleeping for 44 seconds
+219) Deauth on a plug start: 2018.03.25-11.13.03, finish: 2018.03.25-11.13.03
+
+
+sleeping for 81 seconds
+220) Deauth on a lamp start: 2018.03.25-11.17.25, finish: 2018.03.25-11.17.25
+
+
+sleeping for 192 seconds
+221) Deauth on a plug start: 2018.03.25-11.24.11, finish: 2018.03.25-11.24.11
+
+
+sleeping for 187 seconds
+222) Deauth on a plug start: 2018.03.25-11.31.48, finish: 2018.03.25-11.31.48
+
+
+sleeping for 131 seconds
+223) Deauth on a lamp start: 2018.03.25-11.36.46, finish: 2018.03.25-11.36.46
+
+
+sleeping for 53 seconds
+224) Deauth on a plug start: 2018.03.25-11.40.55, finish: 2018.03.25-11.40.55
+
+
+sleeping for 55 seconds
+225) Deauth on a lamp start: 2018.03.25-11.42.04, finish: 2018.03.25-11.42.04
+
+
+sleeping for 102 seconds
+226) Deauth on a plug start: 2018.03.25-11.46.41, finish: 2018.03.25-11.46.41
+
+
+sleeping for 43 seconds
+227) Deauth on a plug start: 2018.03.25-11.49.15, finish: 2018.03.25-11.49.15
+
+
+sleeping for 68 seconds
+228) Deauth on a lamp start: 2018.03.25-11.51.57, finish: 2018.03.25-11.51.57
+
+
+sleeping for 50 seconds
+229) Deauth on a plug start: 2018.03.25-11.54.30, finish: 2018.03.25-11.54.30
+
+
+sleeping for 9 seconds
+230) Deauth on a plug start: 2018.03.25-11.55.11, finish: 2018.03.25-11.55.11
+
+
+sleeping for 190 seconds
+231) Deauth on a lamp start: 2018.03.25-12.01.00, finish: 2018.03.25-12.01.00
+
+
+sleeping for 21 seconds
+232) Deauth on a lamp start: 2018.03.25-12.04.26, finish: 2018.03.25-12.04.25
+
+
+sleeping for 86 seconds
+233) Deauth on a lamp start: 2018.03.25-12.09.09, finish: 2018.03.25-12.09.09
+
+
+sleeping for 172 seconds
+234) Deauth on a lamp start: 2018.03.25-12.13.57, finish: 2018.03.25-12.13.57
+
+
+sleeping for 72 seconds
+235) Deauth on a plug start: 2018.03.25-12.17.08, finish: 2018.03.25-12.17.08
+
+
+sleeping for 88 seconds
+236) Deauth on a plug start: 2018.03.25-12.23.14, finish: 2018.03.25-12.23.14
+
+
+sleeping for 17 seconds
+237) Deauth on a plug start: 2018.03.25-12.25.13, finish: 2018.03.25-12.25.13
+
+
+sleeping for 62 seconds
+238) Deauth on a lamp start: 2018.03.25-12.29.24, finish: 2018.03.25-12.29.24
+
+
+sleeping for 158 seconds
+239) Deauth on a plug start: 2018.03.25-12.35.31, finish: 2018.03.25-12.35.31
+
+
+sleeping for 14 seconds
+240) Deauth on a plug start: 2018.03.25-12.39.25, finish: 2018.03.25-12.39.25
+
+
+sleeping for 196 seconds
+241) Deauth on a plug start: 2018.03.25-12.46.45, finish: 2018.03.25-12.46.45
+
+
+sleeping for 14 seconds
+242) Deauth on a plug start: 2018.03.25-12.49.36, finish: 2018.03.25-12.49.36
+
+
+sleeping for 55 seconds
+243) Deauth on a lamp start: 2018.03.25-12.50.39, finish: 2018.03.25-12.50.39
+
+
+sleeping for 50 seconds
+244) Deauth on a lamp start: 2018.03.25-12.53.50, finish: 2018.03.25-12.53.50
+
+
+sleeping for 54 seconds
+245) Deauth on a plug start: 2018.03.25-12.56.17, finish: 2018.03.25-12.56.17
+
+
+sleeping for 37 seconds
+246) Deauth on a lamp start: 2018.03.25-13.01.34, finish: 2018.03.25-13.01.34
+
+
+sleeping for 155 seconds
+247) Deauth on a lamp start: 2018.03.25-13.08.11, finish: 2018.03.25-13.08.11
+
+
+sleeping for 160 seconds
+248) Deauth on a plug start: 2018.03.25-13.15.32, finish: 2018.03.25-13.15.32
+
+
+sleeping for 146 seconds
+249) Deauth on a lamp start: 2018.03.25-13.22.48, finish: 2018.03.25-13.22.48
+
+
+sleeping for 150 seconds
+250) Deauth on a lamp start: 2018.03.25-13.26.40, finish: 2018.03.25-13.26.40
+
+
+sleeping for 158 seconds
+251) Deauth on a lamp start: 2018.03.25-13.32.02, finish: 2018.03.25-13.32.02
+
+
+sleeping for 43 seconds
+252) Deauth on a plug start: 2018.03.25-13.37.25, finish: 2018.03.25-13.37.25
+
+
+sleeping for 69 seconds
+253) Deauth on a plug start: 2018.03.25-13.40.21, finish: 2018.03.25-13.40.21
+
+
+sleeping for 120 seconds
+254) Deauth on a lamp start: 2018.03.25-13.44.20, finish: 2018.03.25-13.44.20
+
+
+sleeping for 75 seconds
+255) Deauth on a lamp start: 2018.03.25-13.46.35, finish: 2018.03.25-13.46.35
+
+
+sleeping for 125 seconds
+256) Deauth on a plug start: 2018.03.25-13.53.28, finish: 2018.03.25-13.53.28
+
+
+sleeping for 51 seconds
+257) Deauth on a plug start: 2018.03.25-13.57.47, finish: 2018.03.25-13.57.47
+
+
+sleeping for 143 seconds
+258) Deauth on a plug start: 2018.03.25-14.03.26, finish: 2018.03.25-14.03.26
+
+
+sleeping for 120 seconds
+259) Deauth on a plug start: 2018.03.25-14.05.51, finish: 2018.03.25-14.05.51
+
+
+sleeping for 127 seconds
+260) Deauth on a plug start: 2018.03.25-14.12.02, finish: 2018.03.25-14.12.02
+
+
+sleeping for 105 seconds
+261) Deauth on a plug start: 2018.03.25-14.18.28, finish: 2018.03.25-14.18.28
+
+
+sleeping for 41 seconds
+262) Deauth on a plug start: 2018.03.25-14.22.54, finish: 2018.03.25-14.22.54
+
+
+sleeping for 98 seconds
+263) Deauth on a lamp start: 2018.03.25-14.25.41, finish: 2018.03.25-14.25.41
+
+
+sleeping for 10 seconds
+264) Deauth on a plug start: 2018.03.25-14.27.27, finish: 2018.03.25-14.27.27
+
+
+sleeping for 117 seconds
+265) Deauth on a plug start: 2018.03.25-14.33.46, finish: 2018.03.25-14.33.46
+
+
+sleeping for 25 seconds
+266) Deauth on a lamp start: 2018.03.25-14.35.52, finish: 2018.03.25-14.35.52
+
+
+sleeping for 108 seconds
+267) Deauth on a plug start: 2018.03.25-14.40.15, finish: 2018.03.25-14.40.15
+
+
+sleeping for 134 seconds
+268) Deauth on a plug start: 2018.03.25-14.46.00, finish: 2018.03.25-14.46.00
+
+
+sleeping for 27 seconds
+269) Deauth on a plug start: 2018.03.25-14.51.14, finish: 2018.03.25-14.51.14
+
+
+sleeping for 161 seconds
+270) Deauth on a plug start: 2018.03.25-14.57.57, finish: 2018.03.25-14.57.57
+
+
+sleeping for 33 seconds
+271) Deauth on a plug start: 2018.03.25-15.03.18, finish: 2018.03.25-15.03.18
+
+
+sleeping for 162 seconds
+272) Deauth on a lamp start: 2018.03.25-15.10.25, finish: 2018.03.25-15.10.25
+
+
+sleeping for 137 seconds
+273) Deauth on a lamp start: 2018.03.25-15.14.31, finish: 2018.03.25-15.14.31
+
+
+sleeping for 110 seconds
+274) Deauth on a lamp start: 2018.03.25-15.20.45, finish: 2018.03.25-15.20.45
+
+
+sleeping for 115 seconds
+275) Deauth on a plug start: 2018.03.25-15.23.06, finish: 2018.03.25-15.23.06
+
+
+sleeping for 149 seconds
+276) Deauth on a lamp start: 2018.03.25-15.26.25, finish: 2018.03.25-15.26.25
+
+
+sleeping for 146 seconds
+277) Deauth on a lamp start: 2018.03.25-15.33.28, finish: 2018.03.25-15.33.28
+
+
+sleeping for 147 seconds
+278) Deauth on a lamp start: 2018.03.25-15.40.34, finish: 2018.03.25-15.40.34
+
+
+sleeping for 103 seconds
+279) Deauth on a plug start: 2018.03.25-15.44.05, finish: 2018.03.25-15.44.05
+
+
+sleeping for 102 seconds
+280) Deauth on a lamp start: 2018.03.25-15.47.16, finish: 2018.03.25-15.47.16
+
+
+sleeping for 83 seconds
+281) Deauth on a plug start: 2018.03.25-15.52.27, finish: 2018.03.25-15.52.27
+
+
+sleeping for 182 seconds
+282) Deauth on a lamp start: 2018.03.25-15.59.50, finish: 2018.03.25-15.59.50
+
+
+sleeping for 32 seconds
+283) Deauth on a lamp start: 2018.03.25-16.04.14, finish: 2018.03.25-16.04.14
+
+
+sleeping for 104 seconds
+284) Deauth on a lamp start: 2018.03.25-16.07.02, finish: 2018.03.25-16.07.02
+
+
+sleeping for 32 seconds
+285) Deauth on a lamp start: 2018.03.25-16.07.56, finish: 2018.03.25-16.07.56
+
+
+sleeping for 177 seconds
+286) Deauth on a plug start: 2018.03.25-16.13.54, finish: 2018.03.25-16.13.54
+
+
+sleeping for 192 seconds
+287) Deauth on a lamp start: 2018.03.25-16.18.03, finish: 2018.03.25-16.18.03
+
+
+sleeping for 57 seconds
+288) Deauth on a lamp start: 2018.03.25-16.22.36, finish: 2018.03.25-16.22.36
+
+
+sleeping for 171 seconds
+289) Deauth on a plug start: 2018.03.25-16.29.55, finish: 2018.03.25-16.29.55
+
+
+sleeping for 127 seconds
+290) Deauth on a lamp start: 2018.03.25-16.36.00, finish: 2018.03.25-16.36.00
+
+
+sleeping for 15 seconds
+291) Deauth on a lamp start: 2018.03.25-16.40.30, finish: 2018.03.25-16.40.30
+
+
+sleeping for 198 seconds
+292) Deauth on a plug start: 2018.03.25-16.44.51, finish: 2018.03.25-16.44.51
+
+
+sleeping for 197 seconds
+293) Deauth on a plug start: 2018.03.25-16.50.45, finish: 2018.03.25-16.50.45
+
+
+sleeping for 61 seconds
+294) Deauth on a plug start: 2018.03.25-16.53.46, finish: 2018.03.25-16.53.46
+
+
+sleeping for 9 seconds
+295) Deauth on a plug start: 2018.03.25-16.54.19, finish: 2018.03.25-16.54.19
+
+
+sleeping for 137 seconds
+296) Deauth on a plug start: 2018.03.25-16.56.53, finish: 2018.03.25-16.56.53
+
+
+sleeping for 120 seconds
+297) Deauth on a lamp start: 2018.03.25-17.00.48, finish: 2018.03.25-17.00.48
+
+
+sleeping for 154 seconds
+298) Deauth on a lamp start: 2018.03.25-17.08.17, finish: 2018.03.25-17.08.17
+
+
+sleeping for 18 seconds
+299) Deauth on a plug start: 2018.03.25-17.13.31, finish: 2018.03.25-17.13.31
+
+
+sleeping for 49 seconds
+300) Deauth on a lamp start: 2018.03.25-17.15.41, finish: 2018.03.25-17.15.41
+
+
+sleeping for 86 seconds
+301) Deauth on a lamp start: 2018.03.25-17.18.37, finish: 2018.03.25-17.18.37
+
+
+sleeping for 50 seconds
+302) Deauth on a plug start: 2018.03.25-17.22.45, finish: 2018.03.25-17.22.45
+
+
+sleeping for 129 seconds
+303) Deauth on a lamp start: 2018.03.25-17.26.33, finish: 2018.03.25-17.26.33
+
+
+sleeping for 19 seconds
+304) Deauth on a lamp start: 2018.03.25-17.28.41, finish: 2018.03.25-17.28.41
+
+
+sleeping for 129 seconds
+305) Deauth on a lamp start: 2018.03.25-17.35.04, finish: 2018.03.25-17.35.04
+
+
+sleeping for 80 seconds
+306) Deauth on a plug start: 2018.03.25-17.39.06, finish: 2018.03.25-17.39.06
+
+
+sleeping for 11 seconds
+307) Deauth on a lamp start: 2018.03.25-17.42.05, finish: 2018.03.25-17.42.05
+
+
+sleeping for 89 seconds
+308) Deauth on a lamp start: 2018.03.25-17.45.23, finish: 2018.03.25-17.45.23
+
+
+sleeping for 122 seconds
+309) Deauth on a plug start: 2018.03.25-17.49.53, finish: 2018.03.25-17.49.53
+
+
+sleeping for 114 seconds
+310) Deauth on a plug start: 2018.03.25-17.53.01, finish: 2018.03.25-17.53.01
+
+
+sleeping for 35 seconds
+311) Deauth on a plug start: 2018.03.25-17.56.24, finish: 2018.03.25-17.56.24
+
+
+sleeping for 55 seconds
+312) Deauth on a plug start: 2018.03.25-17.57.25, finish: 2018.03.25-17.57.25
+
+
+sleeping for 72 seconds
+313) Deauth on a lamp start: 2018.03.25-18.01.42, finish: 2018.03.25-18.01.42
+
+
+sleeping for 184 seconds
+314) Deauth on a plug start: 2018.03.25-18.06.37, finish: 2018.03.25-18.06.37
+
+
+sleeping for 136 seconds
+315) Deauth on a plug start: 2018.03.25-18.11.06, finish: 2018.03.25-18.11.06
+
+
+sleeping for 192 seconds
+316) Deauth on a plug start: 2018.03.25-18.17.35, finish: 2018.03.25-18.17.35
+
+
+sleeping for 184 seconds
+317) Deauth on a plug start: 2018.03.25-18.25.14, finish: 2018.03.25-18.25.14
+
+
+sleeping for 130 seconds
+318) Deauth on a plug start: 2018.03.25-18.30.29, finish: 2018.03.25-18.30.29
+
+
+sleeping for 17 seconds
+319) Deauth on a plug start: 2018.03.25-18.33.45, finish: 2018.03.25-18.33.45
+
+
+sleeping for 55 seconds
+320) Deauth on a plug start: 2018.03.25-18.36.04, finish: 2018.03.25-18.36.04
+
+
+sleeping for 94 seconds
+321) Deauth on a plug start: 2018.03.25-18.41.48, finish: 2018.03.25-18.41.48
+
+
+sleeping for 180 seconds
+322) Deauth on a lamp start: 2018.03.25-18.49.42, finish: 2018.03.25-18.49.42
+
+
+sleeping for 182 seconds
+323) Deauth on a lamp start: 2018.03.25-18.55.04, finish: 2018.03.25-18.55.04
+
+
+sleeping for 134 seconds
+324) Deauth on a plug start: 2018.03.25-19.00.50, finish: 2018.03.25-19.00.50
+
+
+sleeping for 122 seconds
+325) Deauth on a lamp start: 2018.03.25-19.06.23, finish: 2018.03.25-19.06.23
+
+
+sleeping for 148 seconds
+326) Deauth on a plug start: 2018.03.25-19.11.03, finish: 2018.03.25-19.11.03
+
+
+sleeping for 186 seconds
+327) Deauth on a plug start: 2018.03.25-19.18.49, finish: 2018.03.25-19.18.49
+
+
+sleeping for 97 seconds
+328) Deauth on a plug start: 2018.03.25-19.24.38, finish: 2018.03.25-19.24.38
+
+
+sleeping for 121 seconds
+329) Deauth on a lamp start: 2018.03.25-19.28.28, finish: 2018.03.25-19.28.28
+
+
+sleeping for 114 seconds
+330) Deauth on a plug start: 2018.03.25-19.34.10, finish: 2018.03.25-19.34.10
+
+
+sleeping for 181 seconds
+331) Deauth on a lamp start: 2018.03.25-19.37.22, finish: 2018.03.25-19.37.22
+
+
+sleeping for 82 seconds
+1) Deauth on a plug start: 2018.03.26-16.24.14, finish: 2018.03.26-16.24.33
+
+2018.03.26-16.27.41 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+
+2018.03.26-16.29.28 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT
+1) Deauth on a echo start: 2018.03.26-16.32.56, finish: 2018.03.26-16.33.47
+2) Deauth on a echo start: 2018.03.26-16.36.08, finish: 2018.03.26-16.42.22
+3) Deauth on a plug start: 2018.03.26-16.43.29, finish: 2018.03.26-16.43.42
+4) Deauth on a lamp start: 2018.03.26-16.46.31, finish: 2018.03.26-16.49.55
+5) Deauth on a hive start: 2018.03.26-16.51.21, finish: 2018.03.26-16.59.07
+6) Deauth on a smart things start: 2018.03.26-17.02.18, finish: 2018.03.26-17.09.43
+7) Deauth on a tplink camera start: 2018.03.26-17.11.52, finish: 2018.03.26-17.21.09
+8) Deauth on a lamp start: 2018.03.26-17.23.42, finish: 2018.03.26-17.26.09
+9) Deauth on a plug start: 2018.03.26-17.28.53, finish: 2018.03.26-17.36.56
+10) Deauth on a plug start: 2018.03.26-17.39.55, finish: 2018.03.26-17.49.18
+11) Deauth on a hive start: 2018.03.26-17.50.20, finish: 2018.03.26-17.54.40
+12) Deauth on a echo start: 2018.03.26-17.57.56, finish: 2018.03.26-18.02.51
+13) Deauth on a smart things start: 2018.03.26-18.03.31, finish: 2018.03.26-18.10.51
+14) Deauth on a hive start: 2018.03.26-18.10.56, finish: 2018.03.26-18.14.40
+15) Deauth on a plug start: 2018.03.26-18.14.50, finish: 2018.03.26-18.24.24
+16) Deauth on a smart things start: 2018.03.26-18.25.14, finish: 2018.03.26-18.34.30
+17) Deauth on a plug start: 2018.03.26-18.37.10, finish: 2018.03.26-18.39.52
+18) Deauth on a hive start: 2018.03.26-18.40.59, finish: 2018.03.26-18.50.24
+19) Deauth on a hive start: 2018.03.26-18.52.45, finish: 2018.03.26-18.59.46
+20) Deauth on a echo start: 2018.03.26-19.02.32, finish: 2018.03.26-19.10.16
+21) Deauth on a echo start: 2018.03.26-19.11.58, finish: 2018.03.26-19.18.41
+22) Deauth on a lamp start: 2018.03.26-19.20.27, finish: 2018.03.26-19.21.12
+23) Deauth on a smart things start: 2018.03.26-19.22.11, finish: 2018.03.26-19.26.09
+24) Deauth on a plug start: 2018.03.26-19.27.52, finish: 2018.03.26-19.33.04
+25) Deauth on a echo start: 2018.03.26-19.35.52, finish: 2018.03.26-19.38.45
+26) Deauth on a echo start: 2018.03.26-19.40.07, finish: 2018.03.26-19.48.04
+27) Deauth on a echo start: 2018.03.26-19.48.30, finish: 2018.03.26-19.53.15
+28) Deauth on a lamp start: 2018.03.26-19.56.17, finish: 2018.03.26-20.01.32
+29) Deauth on a lamp start: 2018.03.26-20.03.23, finish: 2018.03.26-20.09.45
+30) Deauth on a hive start: 2018.03.26-20.12.25, finish: 2018.03.26-20.19.11
+31) Deauth on a smart things start: 2018.03.26-20.20.06, finish: 2018.03.26-20.26.52
+32) Deauth on a smart things start: 2018.03.26-20.28.13, finish: 2018.03.26-20.35.34
+33) Deauth on a tplink camera start: 2018.03.26-20.35.48, finish: 2018.03.26-20.40.01
+34) Deauth on a lamp start: 2018.03.26-20.40.31, finish: 2018.03.26-20.45.52
+35) Deauth on a echo start: 2018.03.26-20.49.06, finish: 2018.03.26-20.55.33
+36) Deauth on a lamp start: 2018.03.26-20.57.12, finish: 2018.03.26-21.00.47
+37) Deauth on a plug start: 2018.03.26-21.01.10, finish: 2018.03.26-21.01.56
+38) Deauth on a echo start: 2018.03.26-21.02.02, finish: 2018.03.26-21.07.01
+39) Deauth on a echo start: 2018.03.26-21.08.29, finish: 2018.03.26-21.12.34
+40) Deauth on a tplink camera start: 2018.03.26-21.14.17, finish: 2018.03.26-21.17.55
+41) Deauth on a echo start: 2018.03.26-21.18.13, finish: 2018.03.26-21.21.04
+42) Deauth on a plug start: 2018.03.26-21.21.17, finish: 2018.03.26-21.28.46
+43) Deauth on a hive start: 2018.03.26-21.30.44, finish: 2018.03.26-21.38.00
+44) Deauth on a lamp start: 2018.03.26-21.39.39, finish: 2018.03.26-21.42.10
+45) Deauth on a smart things start: 2018.03.26-21.43.55, finish: 2018.03.26-21.49.04
+46) Deauth on a echo start: 2018.03.26-21.50.03, finish: 2018.03.26-21.57.32
+47) Deauth on a smart things start: 2018.03.26-22.00.02, finish: 2018.03.26-22.03.39
+48) Deauth on a hive start: 2018.03.26-22.04.04, finish: 2018.03.26-22.09.59
+49) Deauth on a plug start: 2018.03.26-22.12.49, finish: 2018.03.26-22.14.31
+50) Deauth on a lamp start: 2018.03.26-22.16.27, finish: 2018.03.26-22.24.49
+51) Deauth on a hive start: 2018.03.26-22.27.54, finish: 2018.03.26-22.35.15
+52) Deauth on a smart things start: 2018.03.26-22.36.50, finish: 2018.03.26-22.37.58
+53) Deauth on a tplink camera start: 2018.03.26-22.39.05, finish: 2018.03.26-22.46.32
+54) Deauth on a smart things start: 2018.03.26-22.47.53, finish: 2018.03.26-22.51.00
+55) Deauth on a smart things start: 2018.03.26-22.53.05, finish: 2018.03.26-22.56.28
+56) Deauth on a smart things start: 2018.03.26-22.59.41, finish: 2018.03.26-23.08.06
+57) Deauth on a echo start: 2018.03.26-23.09.59, finish: 2018.03.26-23.17.32
+58) Deauth on a echo start: 2018.03.26-23.20.16, finish: 2018.03.26-23.28.52
+59) Deauth on a smart things start: 2018.03.26-23.30.03, finish: 2018.03.26-23.32.32
+60) Deauth on a smart things start: 2018.03.26-23.35.31, finish: 2018.03.26-23.44.41
+61) Deauth on a plug start: 2018.03.26-23.47.41, finish: 2018.03.26-23.53.35
+62) Deauth on a smart things start: 2018.03.26-23.53.56, finish: 2018.03.27-00.02.29
+63) Deauth on a hive start: 2018.03.27-00.02.49, finish: 2018.03.27-00.03.17
+64) Deauth on a echo start: 2018.03.27-00.05.08, finish: 2018.03.27-00.05.28
+65) Deauth on a plug start: 2018.03.27-00.06.52, finish: 2018.03.27-00.09.43
+66) Deauth on a smart things start: 2018.03.27-00.09.54, finish: 2018.03.27-00.16.17
+67) Deauth on a plug start: 2018.03.27-00.17.03, finish: 2018.03.27-00.18.02
+68) Deauth on a echo start: 2018.03.27-00.20.28, finish: 2018.03.27-00.22.30
+69) Deauth on a smart things start: 2018.03.27-00.24.59, finish: 2018.03.27-00.28.08
+70) Deauth on a plug start: 2018.03.27-00.30.04, finish: 2018.03.27-00.30.23
+71) Deauth on a tplink camera start: 2018.03.27-00.33.04, finish: 2018.03.27-00.38.17
+72) Deauth on a tplink camera start: 2018.03.27-00.38.49, finish: 2018.03.27-00.45.28
+73) Deauth on a lamp start: 2018.03.27-00.46.57, finish: 2018.03.27-00.53.01
+74) Deauth on a smart things start: 2018.03.27-00.54.16, finish: 2018.03.27-01.00.41
+75) Deauth on a smart things start: 2018.03.27-01.03.16, finish: 2018.03.27-01.07.52
+76) Deauth on a tplink camera start: 2018.03.27-01.09.52, finish: 2018.03.27-01.13.36
+77) Deauth on a echo start: 2018.03.27-01.16.16, finish: 2018.03.27-01.20.36
+78) Deauth on a hive start: 2018.03.27-01.22.40, finish: 2018.03.27-01.30.35
+79) Deauth on a echo start: 2018.03.27-01.33.02, finish: 2018.03.27-01.42.54
+80) Deauth on a plug start: 2018.03.27-01.44.13, finish: 2018.03.27-01.48.57
+81) Deauth on a lamp start: 2018.03.27-01.49.31, finish: 2018.03.27-01.52.39
+82) Deauth on a smart things start: 2018.03.27-01.53.47, finish: 2018.03.27-02.00.16
+83) Deauth on a smart things start: 2018.03.27-02.02.41, finish: 2018.03.27-02.05.12
+84) Deauth on a smart things start: 2018.03.27-02.07.30, finish: 2018.03.27-02.12.50
+85) Deauth on a plug start: 2018.03.27-02.15.30, finish: 2018.03.27-02.20.04
+86) Deauth on a tplink camera start: 2018.03.27-02.21.49, finish: 2018.03.27-02.25.38
+87) Deauth on a smart things start: 2018.03.27-02.26.16, finish: 2018.03.27-02.30.40
+88) Deauth on a smart things start: 2018.03.27-02.33.49, finish: 2018.03.27-02.36.57
+89) Deauth on a echo start: 2018.03.27-02.39.54, finish: 2018.03.27-02.40.04
+90) Deauth on a smart things start: 2018.03.27-02.42.10, finish: 2018.03.27-02.48.23
+91) Deauth on a hive start: 2018.03.27-02.51.17, finish: 2018.03.27-02.52.11
+92) Deauth on a hive start: 2018.03.27-02.53.35, finish: 2018.03.27-03.01.28
+93) Deauth on a echo start: 2018.03.27-03.03.44, finish: 2018.03.27-03.05.08
+94) Deauth on a lamp start: 2018.03.27-03.06.27, finish: 2018.03.27-03.09.50
+95) Deauth on a hive start: 2018.03.27-03.10.46, finish: 2018.03.27-03.15.08
+96) Deauth on a hive start: 2018.03.27-03.15.43, finish: 2018.03.27-03.18.09
+97) Deauth on a lamp start: 2018.03.27-03.20.49, finish: 2018.03.27-03.28.42
+98) Deauth on a lamp start: 2018.03.27-03.30.06, finish: 2018.03.27-03.33.32
+99) Deauth on a echo start: 2018.03.27-03.36.11, finish: 2018.03.27-03.41.03
+100) Deauth on a lamp start: 2018.03.27-03.44.07, finish: 2018.03.27-03.46.48
+101) Deauth on a smart things start: 2018.03.27-03.47.59, finish: 2018.03.27-03.56.30
+102) Deauth on a hive start: 2018.03.27-03.57.36, finish: 2018.03.27-04.07.22
+103) Deauth on a tplink camera start: 2018.03.27-04.09.47, finish: 2018.03.27-04.11.50
+104) Deauth on a echo start: 2018.03.27-04.14.03, finish: 2018.03.27-04.14.19
+105) Deauth on a echo start: 2018.03.27-04.15.00, finish: 2018.03.27-04.21.59
+106) Deauth on a lamp start: 2018.03.27-04.23.38, finish: 2018.03.27-04.25.18
+107) Deauth on a hive start: 2018.03.27-04.25.25, finish: 2018.03.27-04.25.47
+108) Deauth on a echo start: 2018.03.27-04.27.07, finish: 2018.03.27-04.30.29
+109) Deauth on a echo start: 2018.03.27-04.31.42, finish: 2018.03.27-04.32.13
+110) Deauth on a tplink camera start: 2018.03.27-04.35.03, finish: 2018.03.27-04.38.48
+111) Deauth on a echo start: 2018.03.27-04.39.51, finish: 2018.03.27-04.47.51
+112) Deauth on a plug start: 2018.03.27-04.49.22, finish: 2018.03.27-04.50.17
+113) Deauth on a smart things start: 2018.03.27-04.53.26, finish: 2018.03.27-04.56.25
+114) Deauth on a plug start: 2018.03.27-04.59.31, finish: 2018.03.27-05.07.28
+115) Deauth on a hive start: 2018.03.27-05.09.18, finish: 2018.03.27-05.15.06
+116) Deauth on a smart things start: 2018.03.27-05.16.39, finish: 2018.03.27-05.26.16
+117) Deauth on a hive start: 2018.03.27-05.27.05, finish: 2018.03.27-05.28.58
+118) Deauth on a lamp start: 2018.03.27-05.30.29, finish: 2018.03.27-05.35.10
+119) Deauth on a echo start: 2018.03.27-05.38.04, finish: 2018.03.27-05.42.07
+120) Deauth on a tplink camera start: 2018.03.27-05.42.16, finish: 2018.03.27-05.50.08
+121) Deauth on a smart things start: 2018.03.27-05.51.39, finish: 2018.03.27-05.57.49
+122) Deauth on a plug start: 2018.03.27-05.59.03, finish: 2018.03.27-06.08.45
+123) Deauth on a echo start: 2018.03.27-06.09.41, finish: 2018.03.27-06.13.53
+124) Deauth on a lamp start: 2018.03.27-06.15.56, finish: 2018.03.27-06.16.33
+125) Deauth on a plug start: 2018.03.27-06.16.50, finish: 2018.03.27-06.20.07
+126) Deauth on a hive start: 2018.03.27-06.23.21, finish: 2018.03.27-06.25.34
+127) Deauth on a echo start: 2018.03.27-06.28.08, finish: 2018.03.27-06.30.19
+128) Deauth on a hive start: 2018.03.27-06.31.03, finish: 2018.03.27-06.32.31
+129) Deauth on a hive start: 2018.03.27-06.35.45, finish: 2018.03.27-06.37.16
+130) Deauth on a echo start: 2018.03.27-06.39.12, finish: 2018.03.27-06.48.16
+131) Deauth on a smart things start: 2018.03.27-06.50.49, finish: 2018.03.27-06.56.10
+132) Deauth on a plug start: 2018.03.27-06.58.00, finish: 2018.03.27-07.02.02
+133) Deauth on a plug start: 2018.03.27-07.02.55, finish: 2018.03.27-07.04.48
+134) Deauth on a echo start: 2018.03.27-07.06.45, finish: 2018.03.27-07.07.00
+135) Deauth on a lamp start: 2018.03.27-07.08.01, finish: 2018.03.27-07.17.25
+136) Deauth on a hive start: 2018.03.27-07.19.26, finish: 2018.03.27-07.20.18
+137) Deauth on a hive start: 2018.03.27-07.21.14, finish: 2018.03.27-07.31.05
+138) Deauth on a tplink camera start: 2018.03.27-07.31.16, finish: 2018.03.27-07.39.00
+139) Deauth on a smart things start: 2018.03.27-07.39.19, finish: 2018.03.27-07.46.30
+140) Deauth on a plug start: 2018.03.27-07.48.29, finish: 2018.03.27-07.51.03
+141) Deauth on a plug start: 2018.03.27-07.52.20, finish: 2018.03.27-07.58.15
+142) Deauth on a plug start: 2018.03.27-07.59.37, finish: 2018.03.27-08.00.44
+143) Deauth on a smart things start: 2018.03.27-08.02.29, finish: 2018.03.27-08.10.42
+144) Deauth on a echo start: 2018.03.27-08.11.38, finish: 2018.03.27-08.15.46
+145) Deauth on a echo start: 2018.03.27-08.18.16, finish: 2018.03.27-08.24.15
+146) Deauth on a plug start: 2018.03.27-08.25.55, finish: 2018.03.27-08.32.50
+147) Deauth on a echo start: 2018.03.27-08.35.52, finish: 2018.03.27-08.43.42
+148) Deauth on a plug start: 2018.03.27-08.44.15, finish: 2018.03.27-08.50.34
+149) Deauth on a smart things start: 2018.03.27-08.53.36, finish: 2018.03.27-08.55.24
+150) Deauth on a smart things start: 2018.03.27-08.55.48, finish: 2018.03.27-09.04.52
+151) Deauth on a lamp start: 2018.03.27-09.06.36, finish: 2018.03.27-09.13.30
+152) Deauth on a plug start: 2018.03.27-09.16.18, finish: 2018.03.27-09.19.36
+153) Deauth on a plug start: 2018.03.27-09.22.29, finish: 2018.03.27-09.26.24
+154) Deauth on a smart things start: 2018.03.27-09.28.21, finish: 2018.03.27-09.33.23
+155) Deauth on a echo start: 2018.03.27-09.35.42, finish: 2018.03.27-09.39.21
+156) Deauth on a hive start: 2018.03.27-09.40.54, finish: 2018.03.27-09.48.28
+157) Deauth on a hive start: 2018.03.27-09.51.37, finish: 2018.03.27-09.57.22
+158) Deauth on a lamp start: 2018.03.27-10.00.11, finish: 2018.03.27-10.06.57
+159) Deauth on a plug start: 2018.03.27-10.08.35, finish: 2018.03.27-10.12.30
+160) Deauth on a hive start: 2018.03.27-10.15.41, finish: 2018.03.27-10.22.42
+161) Deauth on a tplink camera start: 2018.03.27-10.25.23, finish: 2018.03.27-10.25.35
+162) Deauth on a echo start: 2018.03.27-10.26.44, finish: 2018.03.27-10.31.22
+163) Deauth on a smart things start: 2018.03.27-10.34.02, finish: 2018.03.27-10.40.08
+164) Deauth on a smart things start: 2018.03.27-10.42.18, finish: 2018.03.27-10.43.05
+165) Deauth on a smart things start: 2018.03.27-10.43.36, finish: 2018.03.27-10.48.50
+166) Deauth on a hive start: 2018.03.27-10.49.45, finish: 2018.03.27-10.58.45
+167) Deauth on a smart things start: 2018.03.27-10.59.36, finish: 2018.03.27-11.01.46
+168) Deauth on a lamp start: 2018.03.27-11.04.47, finish: 2018.03.27-11.10.43
+169) Deauth on a echo start: 2018.03.27-11.13.51, finish: 2018.03.27-11.19.33
+170) Deauth on a smart things start: 2018.03.27-11.20.46, finish: 2018.03.27-11.27.18
+171) Deauth on a echo start: 2018.03.27-11.28.18, finish: 2018.03.27-11.35.19
+172) Deauth on a plug start: 2018.03.27-11.36.43, finish: 2018.03.27-11.38.45
+173) Deauth on a plug start: 2018.03.27-11.41.45, finish: 2018.03.27-11.45.27
+174) Deauth on a plug start: 2018.03.27-11.47.28, finish: 2018.03.27-11.47.56
+175) Deauth on a hive start: 2018.03.27-11.48.53, finish: 2018.03.27-11.56.09
+176) Deauth on a smart things start: 2018.03.27-11.57.23, finish: 2018.03.27-12.07.10
+177) Deauth on a smart things start: 2018.03.27-12.09.57, finish: 2018.03.27-12.13.21
+178) Deauth on a smart things start: 2018.03.27-12.15.24, finish: 2018.03.27-12.24.40
+179) Deauth on a smart things start: 2018.03.27-12.27.34, finish: 2018.03.27-12.28.49
+180) Deauth on a echo start: 2018.03.27-12.30.20, finish: 2018.03.27-12.39.34
+181) Deauth on a lamp start: 2018.03.27-12.42.12, finish: 2018.03.27-12.45.13
+182) Deauth on a echo start: 2018.03.27-12.48.08, finish: 2018.03.27-12.54.19
+183) Deauth on a tplink camera start: 2018.03.27-12.55.42, finish: 2018.03.27-13.04.16
+184) Deauth on a plug start: 2018.03.27-13.05.01, finish: 2018.03.27-13.05.45
+185) Deauth on a tplink camera start: 2018.03.27-13.07.22, finish: 2018.03.27-13.10.28
+186) Deauth on a tplink camera start: 2018.03.27-13.11.38, finish: 2018.03.27-13.20.36
+187) Deauth on a smart things start: 2018.03.27-13.20.54, finish: 2018.03.27-13.28.07
+188) Deauth on a lamp start: 2018.03.27-13.31.20, finish: 2018.03.27-13.39.37
+189) Deauth on a smart things start: 2018.03.27-13.42.44, finish: 2018.03.27-13.45.05
+190) Deauth on a hive start: 2018.03.27-13.47.36, finish: 2018.03.27-13.56.36
+191) Deauth on a plug start: 2018.03.27-13.57.49, finish: 2018.03.27-14.02.43
+192) Deauth on a tplink camera start: 2018.03.27-14.05.58, finish: 2018.03.27-14.11.50
+193) Deauth on a smart things start: 2018.03.27-14.13.07, finish: 2018.03.27-14.21.54
+194) Deauth on a hive start: 2018.03.27-14.22.56, finish: 2018.03.27-14.31.05
+195) Deauth on a plug start: 2018.03.27-14.33.42, finish: 2018.03.27-14.38.51
+196) Deauth on a tplink camera start: 2018.03.27-14.40.45, finish: 2018.03.27-14.44.24
+197) Deauth on a hive start: 2018.03.27-14.45.48, finish: 2018.03.27-14.47.32
+198) Deauth on a smart things start: 2018.03.27-14.49.01, finish: 2018.03.27-14.58.33
+199) Deauth on a smart things start: 2018.03.27-15.01.36, finish: 2018.03.27-15.06.36
+200) Deauth on a lamp start: 2018.03.27-15.09.25, finish: 2018.03.27-15.15.27
+201) Deauth on a lamp start: 2018.03.27-15.16.47, finish: 2018.03.27-15.21.31
+202) Deauth on a tplink camera start: 2018.03.27-15.23.12, finish: 2018.03.27-15.27.52
+203) Deauth on a echo start: 2018.03.27-15.28.44, finish: 2018.03.27-15.29.41
+204) Deauth on a hive start: 2018.03.27-15.30.06, finish: 2018.03.27-15.32.03
+205) Deauth on a echo start: 2018.03.27-15.32.28, finish: 2018.03.27-15.40.10
+206) Deauth on a lamp start: 2018.03.27-15.41.10, finish: 2018.03.27-15.45.31
+207) Deauth on a echo start: 2018.03.27-15.47.06, finish: 2018.03.27-15.53.04
+208) Deauth on a hive start: 2018.03.27-15.55.15, finish: 2018.03.27-16.00.47
+209) Deauth on a echo start: 2018.03.27-16.01.58, finish: 2018.03.27-16.07.18
+210) Deauth on a hive start: 2018.03.27-16.09.24, finish: 2018.03.27-16.16.41
+211) Deauth on a smart things start: 2018.03.27-16.19.13, finish: 2018.03.27-16.19.49
+212) Deauth on a tplink camera start: 2018.03.27-16.21.13, finish: 2018.03.27-16.27.39
+213) Deauth on a plug start: 2018.03.27-16.28.41, finish: 2018.03.27-16.35.58
+214) Deauth on a smart things start: 2018.03.27-16.38.15, finish: 2018.03.27-16.39.06
+215) Deauth on a echo start: 2018.03.27-16.39.49, finish: 2018.03.27-16.43.20
+216) Deauth on a smart things start: 2018.03.27-16.46.09, finish: 2018.03.27-16.49.37
+217) Deauth on a echo start: 2018.03.27-16.50.40, finish: 2018.03.27-16.57.31
+218) Deauth on a tplink camera start: 2018.03.27-16.58.10, finish: 2018.03.27-17.04.02
+219) Deauth on a plug start: 2018.03.27-17.05.36, finish: 2018.03.27-17.07.41
+220) Deauth on a echo start: 2018.03.27-17.09.36, finish: 2018.03.27-17.12.08
+221) Deauth on a tplink camera start: 2018.03.27-17.13.40, finish: 2018.03.27-17.19.04
+222) Deauth on a plug start: 2018.03.27-17.22.25, finish: 2018.03.27-17.25.49
+223) Deauth on a hive start: 2018.03.27-17.26.33, finish: 2018.03.27-17.31.31
+224) Deauth on a tplink camera start: 2018.03.27-17.33.57, finish: 2018.03.27-17.34.47
+225) Deauth on a hive start: 2018.03.27-17.37.31, finish: 2018.03.27-17.39.43
+226) Deauth on a plug start: 2018.03.27-17.40.04, finish: 2018.03.27-17.45.40
+227) Deauth on a hive start: 2018.03.27-17.46.51, finish: 2018.03.27-17.56.39
+228) Deauth on a echo start: 2018.03.27-17.59.00, finish: 2018.03.27-18.08.46
+229) Deauth on a hive start: 2018.03.27-18.11.00, finish: 2018.03.27-18.12.20
+230) Deauth on a echo start: 2018.03.27-18.14.43, finish: 2018.03.27-18.20.22
+231) Deauth on a smart things start: 2018.03.27-18.21.21, finish: 2018.03.27-18.25.14
+232) Deauth on a smart things start: 2018.03.27-18.25.23, finish: 2018.03.27-18.27.32
+233) Deauth on a smart things start: 2018.03.27-18.29.01, finish: 2018.03.27-18.29.13
+234) Deauth on a hive start: 2018.03.27-18.32.16, finish: 2018.03.27-18.36.00
+235) Deauth on a plug start: 2018.03.27-18.39.17, finish: 2018.03.27-18.49.14
+236) Deauth on a hive start: 2018.03.27-18.49.57, finish: 2018.03.27-18.51.08
+237) Deauth on a plug start: 2018.03.27-18.51.55, finish: 2018.03.27-18.59.10
+238) Deauth on a tplink camera start: 2018.03.27-19.02.10, finish: 2018.03.27-19.06.08
+239) Deauth on a tplink camera start: 2018.03.27-19.08.37, finish: 2018.03.27-19.10.41
+240) Deauth on a plug start: 2018.03.27-19.13.18, finish: 2018.03.27-19.23.11
+241) Deauth on a tplink camera start: 2018.03.27-19.26.25, finish: 2018.03.27-19.31.55
+242) Deauth on a lamp start: 2018.03.27-19.33.47, finish: 2018.03.27-19.38.57
+243) Deauth on a tplink camera start: 2018.03.27-19.40.41, finish: 2018.03.27-19.48.55
+244) Deauth on a tplink camera start: 2018.03.27-19.49.15, finish: 2018.03.27-19.56.00
+245) Deauth on a lamp start: 2018.03.27-19.58.49, finish: 2018.03.27-20.08.11
+246) Deauth on a lamp start: 2018.03.27-20.10.19, finish: 2018.03.27-20.14.45
+247) Deauth on a plug start: 2018.03.27-20.17.25, finish: 2018.03.27-20.26.57

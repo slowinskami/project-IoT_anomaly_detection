@@ -1,0 +1,752 @@
+
+2018.03.26-16.24.14 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT (ON ALL - even if not discoverable) 
+
+
+ sleeping for 12 seconds
+
+2018.03.26-16.31.04 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT (ON ALL - even if not discoverable) 
+
+2018.03.26-16.32.40 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT (ON ALL - even if not discoverable) 
+
+2018.03.26-16.32.56 *!*!*!*!*!*!*!*!* STARTING DEAUTH SCRIPT (ON ALL - even if not discoverable) 
+
+
+ sleeping for 140 seconds
+
+
+ sleeping for 67 seconds
+
+
+ sleeping for 169 seconds
+
+
+ sleeping for 86 seconds
+
+
+ sleeping for 191 seconds
+
+
+ sleeping for 129 seconds
+
+
+ sleeping for 153 seconds
+
+
+ sleeping for 164 seconds
+
+
+ sleeping for 179 seconds
+
+
+ sleeping for 62 seconds
+
+
+ sleeping for 196 seconds
+
+
+ sleeping for 40 seconds
+
+
+ sleeping for 5 seconds
+
+
+ sleeping for 10 seconds
+
+
+ sleeping for 50 seconds
+
+
+ sleeping for 160 seconds
+
+
+ sleeping for 67 seconds
+
+
+ sleeping for 141 seconds
+
+
+ sleeping for 166 seconds
+
+
+ sleeping for 102 seconds
+
+
+ sleeping for 106 seconds
+
+
+ sleeping for 59 seconds
+
+
+ sleeping for 103 seconds
+
+
+ sleeping for 168 seconds
+
+
+ sleeping for 82 seconds
+
+
+ sleeping for 26 seconds
+
+
+ sleeping for 182 seconds
+
+
+ sleeping for 111 seconds
+
+
+ sleeping for 159 seconds
+
+
+ sleeping for 55 seconds
+
+
+ sleeping for 81 seconds
+
+
+ sleeping for 14 seconds
+
+
+ sleeping for 30 seconds
+
+
+ sleeping for 194 seconds
+
+
+ sleeping for 99 seconds
+
+
+ sleeping for 23 seconds
+
+
+ sleeping for 6 seconds
+
+
+ sleeping for 88 seconds
+
+
+ sleeping for 103 seconds
+
+
+ sleeping for 18 seconds
+
+
+ sleeping for 13 seconds
+
+
+ sleeping for 118 seconds
+
+
+ sleeping for 99 seconds
+
+
+ sleeping for 105 seconds
+
+
+ sleeping for 59 seconds
+
+
+ sleeping for 150 seconds
+
+
+ sleeping for 25 seconds
+
+
+ sleeping for 170 seconds
+
+
+ sleeping for 116 seconds
+
+
+ sleeping for 185 seconds
+
+
+ sleeping for 95 seconds
+
+
+ sleeping for 67 seconds
+
+
+ sleeping for 81 seconds
+
+
+ sleeping for 125 seconds
+
+
+ sleeping for 193 seconds
+
+
+ sleeping for 112 seconds
+
+
+ sleeping for 164 seconds
+
+
+ sleeping for 71 seconds
+
+
+ sleeping for 179 seconds
+
+
+ sleeping for 180 seconds
+
+
+ sleeping for 21 seconds
+
+
+ sleeping for 20 seconds
+
+
+ sleeping for 111 seconds
+
+
+ sleeping for 84 seconds
+
+
+ sleeping for 11 seconds
+
+
+ sleeping for 46 seconds
+
+
+ sleeping for 146 seconds
+
+
+ sleeping for 149 seconds
+
+
+ sleeping for 116 seconds
+
+
+ sleeping for 161 seconds
+
+
+ sleeping for 32 seconds
+
+
+ sleeping for 89 seconds
+
+
+ sleeping for 75 seconds
+
+
+ sleeping for 155 seconds
+
+
+ sleeping for 120 seconds
+
+
+ sleeping for 160 seconds
+
+
+ sleeping for 124 seconds
+
+
+ sleeping for 147 seconds
+
+
+ sleeping for 79 seconds
+
+
+ sleeping for 34 seconds
+
+
+ sleeping for 68 seconds
+
+
+ sleeping for 144 seconds
+
+
+ sleeping for 138 seconds
+
+
+ sleeping for 160 seconds
+
+
+ sleeping for 105 seconds
+
+
+ sleeping for 38 seconds
+
+
+ sleeping for 189 seconds
+
+
+ sleeping for 177 seconds
+
+
+ sleeping for 126 seconds
+
+
+ sleeping for 174 seconds
+
+
+ sleeping for 84 seconds
+
+
+ sleeping for 136 seconds
+
+
+ sleeping for 79 seconds
+
+
+ sleeping for 56 seconds
+
+
+ sleeping for 35 seconds
+
+
+ sleeping for 160 seconds
+
+
+ sleeping for 84 seconds
+
+
+ sleeping for 159 seconds
+
+
+ sleeping for 184 seconds
+
+
+ sleeping for 71 seconds
+
+
+ sleeping for 66 seconds
+
+
+ sleeping for 145 seconds
+
+
+ sleeping for 133 seconds
+
+
+ sleeping for 41 seconds
+
+
+ sleeping for 99 seconds
+
+
+ sleeping for 7 seconds
+
+
+ sleeping for 80 seconds
+
+
+ sleeping for 73 seconds
+
+
+ sleeping for 170 seconds
+
+
+ sleeping for 63 seconds
+
+
+ sleeping for 90 seconds
+
+
+ sleeping for 189 seconds
+
+
+ sleeping for 186 seconds
+
+
+ sleeping for 110 seconds
+
+
+ sleeping for 93 seconds
+
+
+ sleeping for 49 seconds
+
+
+ sleeping for 91 seconds
+
+
+ sleeping for 174 seconds
+
+
+ sleeping for 9 seconds
+
+
+ sleeping for 91 seconds
+
+
+ sleeping for 74 seconds
+
+
+ sleeping for 56 seconds
+
+
+ sleeping for 123 seconds
+
+
+ sleeping for 17 seconds
+
+
+ sleeping for 194 seconds
+
+
+ sleeping for 154 seconds
+
+
+ sleeping for 44 seconds
+
+
+ sleeping for 194 seconds
+
+
+ sleeping for 116 seconds
+
+
+ sleeping for 153 seconds
+
+
+ sleeping for 110 seconds
+
+
+ sleeping for 53 seconds
+
+
+ sleeping for 117 seconds
+
+
+ sleeping for 61 seconds
+
+
+ sleeping for 121 seconds
+
+
+ sleeping for 56 seconds
+
+
+ sleeping for 11 seconds
+
+
+ sleeping for 19 seconds
+
+
+ sleeping for 119 seconds
+
+
+ sleeping for 77 seconds
+
+
+ sleeping for 82 seconds
+
+
+ sleeping for 105 seconds
+
+
+ sleeping for 56 seconds
+
+
+ sleeping for 150 seconds
+
+
+ sleeping for 100 seconds
+
+
+ sleeping for 182 seconds
+
+
+ sleeping for 33 seconds
+
+
+ sleeping for 182 seconds
+
+
+ sleeping for 24 seconds
+
+
+ sleeping for 104 seconds
+
+
+ sleeping for 168 seconds
+
+
+ sleeping for 173 seconds
+
+
+ sleeping for 117 seconds
+
+
+ sleeping for 139 seconds
+
+
+ sleeping for 93 seconds
+
+
+ sleeping for 189 seconds
+
+
+ sleeping for 169 seconds
+
+
+ sleeping for 98 seconds
+
+
+ sleeping for 191 seconds
+
+
+ sleeping for 161 seconds
+
+
+ sleeping for 69 seconds
+
+
+ sleeping for 160 seconds
+
+
+ sleeping for 130 seconds
+
+
+ sleeping for 31 seconds
+
+
+ sleeping for 54 seconds
+
+
+ sleeping for 51 seconds
+
+
+ sleeping for 181 seconds
+
+
+ sleeping for 188 seconds
+
+
+ sleeping for 73 seconds
+
+
+ sleeping for 60 seconds
+
+
+ sleeping for 84 seconds
+
+
+ sleeping for 180 seconds
+
+
+ sleeping for 121 seconds
+
+
+ sleeping for 57 seconds
+
+
+ sleeping for 74 seconds
+
+
+ sleeping for 167 seconds
+
+
+ sleeping for 123 seconds
+
+
+ sleeping for 174 seconds
+
+
+ sleeping for 91 seconds
+
+
+ sleeping for 158 seconds
+
+
+ sleeping for 175 seconds
+
+
+ sleeping for 83 seconds
+
+
+ sleeping for 45 seconds
+
+
+ sleeping for 97 seconds
+
+
+ sleeping for 70 seconds
+
+
+ sleeping for 18 seconds
+
+
+ sleeping for 193 seconds
+
+
+ sleeping for 187 seconds
+
+
+ sleeping for 151 seconds
+
+
+ sleeping for 73 seconds
+
+
+ sleeping for 195 seconds
+
+
+ sleeping for 77 seconds
+
+
+ sleeping for 62 seconds
+
+
+ sleeping for 157 seconds
+
+
+ sleeping for 114 seconds
+
+
+ sleeping for 84 seconds
+
+
+ sleeping for 89 seconds
+
+
+ sleeping for 183 seconds
+
+
+ sleeping for 169 seconds
+
+
+ sleeping for 80 seconds
+
+
+ sleeping for 101 seconds
+
+
+ sleeping for 52 seconds
+
+
+ sleeping for 25 seconds
+
+
+ sleeping for 25 seconds
+
+
+ sleeping for 60 seconds
+
+
+ sleeping for 95 seconds
+
+
+ sleeping for 131 seconds
+
+
+ sleeping for 71 seconds
+
+
+ sleeping for 126 seconds
+
+
+ sleeping for 152 seconds
+
+
+ sleeping for 84 seconds
+
+
+ sleeping for 62 seconds
+
+
+ sleeping for 137 seconds
+
+
+ sleeping for 43 seconds
+
+
+ sleeping for 169 seconds
+
+
+ sleeping for 63 seconds
+
+
+ sleeping for 39 seconds
+
+
+ sleeping for 94 seconds
+
+
+ sleeping for 115 seconds
+
+
+ sleeping for 92 seconds
+
+
+ sleeping for 200 seconds
+
+
+ sleeping for 44 seconds
+
+
+ sleeping for 146 seconds
+
+
+ sleeping for 164 seconds
+
+
+ sleeping for 21 seconds
+
+
+ sleeping for 71 seconds
+
+
+ sleeping for 141 seconds
+
+
+ sleeping for 134 seconds
+
+
+ sleeping for 143 seconds
+
+
+ sleeping for 59 seconds
+
+
+ sleeping for 9 seconds
+
+
+ sleeping for 89 seconds
+
+
+ sleeping for 183 seconds
+
+
+ sleeping for 197 seconds
+
+
+ sleeping for 43 seconds
+
+
+ sleeping for 47 seconds
+
+
+ sleeping for 180 seconds
+
+
+ sleeping for 149 seconds
+
+
+ sleeping for 157 seconds
+
+
+ sleeping for 194 seconds
+
+
+ sleeping for 112 seconds
+
+
+ sleeping for 104 seconds
+
+
+ sleeping for 20 seconds
+
+
+ sleeping for 169 seconds
+
+
+ sleeping for 128 seconds
+
+
+ sleeping for 160 seconds
+
+
+ sleeping for 125 seconds

@@ -1,0 +1,276 @@
+Initial verification of IPs and MACs: 
+Interface: wlan0, datalink type: EN10MB (Ethernet)
+Starting arp-scan 1.9 with 256 hosts (http://www.nta-monitor.com/tools/arp-scan/)
+192.168.200.1	00:08:a2:0c:d5:8c	ADI Engineering, Inc.
+192.168.200.2	f0:9f:c2:73:28:98	(Unknown)
+192.168.200.3	84:2b:2b:72:d7:f8	Dell Inc.
+192.168.200.109	68:37:e9:66:a1:1e	(Unknown)
+192.168.200.121	00:1c:2b:0a:e3:de	Alertme.com Limited
+192.168.200.122	d0:52:a8:91:0a:0a	Physical Graph Corporation
+192.168.200.125	d0:73:d5:21:82:61	LIFI LABS MANAGEMENT PTY LTD
+192.168.200.144	60:e3:27:25:a1:8d	(Unknown)
+
+8 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.9: 256 hosts scanned in 2.409 seconds (106.27 hosts/sec). 8 responded
+
+ ** Starting arpspoof attacks for the following IPs
+: 192.168.200.1
+192.168.200.2
+192.168.200.3
+192.168.200.109
+192.168.200.121
+192.168.200.122
+192.168.200.125
+192.168.200.144
+192.168.200.134Initial verification of IPs and MACs: 
+Interface: wlan0, datalink type: EN10MB (Ethernet)
+Starting arp-scan 1.9 with 256 hosts (http://www.nta-monitor.com/tools/arp-scan/)
+192.168.200.1	00:08:a2:0c:d5:8c	ADI Engineering, Inc.
+192.168.200.2	f0:9f:c2:73:28:98	(Unknown)
+192.168.200.3	84:2b:2b:72:d7:f8	Dell Inc.
+192.168.200.109	68:37:e9:66:a1:1e	(Unknown)
+192.168.200.121	00:1c:2b:0a:e3:de	Alertme.com Limited
+192.168.200.122	d0:52:a8:91:0a:0a	Physical Graph Corporation
+192.168.200.125	d0:73:d5:21:82:61	LIFI LABS MANAGEMENT PTY LTD
+192.168.200.144	60:e3:27:25:a1:8d	(Unknown)
+
+8 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.9: 256 hosts scanned in 2.437 seconds (105.05 hosts/sec). 8 responded
+
+ ** Starting arpspoof attacks for the following IPs
+: 192.168.200.1
+192.168.200.2
+192.168.200.3
+192.168.200.109
+192.168.200.121
+192.168.200.122
+192.168.200.125
+192.168.200.144
+192.168.200.134Initial verification of IPs and MACs: 
+Interface: wlan0, datalink type: EN10MB (Ethernet)
+Starting arp-scan 1.9 with 256 hosts (http://www.nta-monitor.com/tools/arp-scan/)
+192.168.200.1	00:08:a2:0c:d5:8c	ADI Engineering, Inc.
+192.168.200.2	f0:9f:c2:73:28:98	(Unknown)
+192.168.200.3	84:2b:2b:72:d7:f8	Dell Inc.
+192.168.200.109	68:37:e9:66:a1:1e	(Unknown)
+192.168.200.121	00:1c:2b:0a:e3:de	Alertme.com Limited
+192.168.200.122	d0:52:a8:91:0a:0a	Physical Graph Corporation
+192.168.200.125	d0:73:d5:21:82:61	LIFI LABS MANAGEMENT PTY LTD
+192.168.200.144	60:e3:27:25:a1:8d	(Unknown)
+
+8 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.9: 256 hosts scanned in 2.428 seconds (105.44 hosts/sec). 8 responded
+
+ ** Starting arpspoof attacks for the following IPs
+: 192.168.200.1
+192.168.200.2
+192.168.200.3
+192.168.200.109
+192.168.200.121
+192.168.200.122
+192.168.200.125
+192.168.200.144
+192.168.200.134Initial verification of IPs and MACs: 
+Interface: wlan0, datalink type: EN10MB (Ethernet)
+Starting arp-scan 1.9 with 256 hosts (http://www.nta-monitor.com/tools/arp-scan/)
+192.168.200.1	00:08:a2:0c:d5:8c	ADI Engineering, Inc.
+192.168.200.2	f0:9f:c2:73:28:98	(Unknown)
+192.168.200.3	84:2b:2b:72:d7:f8	Dell Inc.
+192.168.200.109	68:37:e9:66:a1:1e	(Unknown)
+192.168.200.121	00:1c:2b:0a:e3:de	Alertme.com Limited
+192.168.200.122	d0:52:a8:91:0a:0a	Physical Graph Corporation
+192.168.200.125	d0:73:d5:21:82:61	LIFI LABS MANAGEMENT PTY LTD
+192.168.200.144	60:e3:27:25:a1:8d	(Unknown)
+
+8 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.9: 256 hosts scanned in 2.381 seconds (107.52 hosts/sec). 8 responded
+
+ ** Starting arpspoof attacks for the following IPs
+: 192.168.200.1
+192.168.200.2
+192.168.200.3
+192.168.200.109
+192.168.200.121
+192.168.200.122
+192.168.200.125
+192.168.200.144
+192.168.200.134
+1)start: 2018.03.31-23.14.13 , stop: 2018.03.31-23.16.25 [duration before injection: 19 seconds , injected: 4 packets , duration after injection: 27 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+Initial verification of IPs and MACs: 
+Interface: wlan0, datalink type: EN10MB (Ethernet)
+Starting arp-scan 1.9 with 256 hosts (http://www.nta-monitor.com/tools/arp-scan/)
+192.168.200.2	f0:9f:c2:73:28:98	(Unknown)
+192.168.200.1	00:08:a2:0c:d5:8c	ADI Engineering, Inc.
+192.168.200.3	84:2b:2b:72:d7:f8	Dell Inc.
+192.168.200.109	68:37:e9:66:a1:1e	(Unknown)
+192.168.200.121	00:1c:2b:0a:e3:de	Alertme.com Limited
+192.168.200.122	d0:52:a8:91:0a:0a	Physical Graph Corporation
+192.168.200.125	d0:73:d5:21:82:61	LIFI LABS MANAGEMENT PTY LTD
+192.168.200.144	60:e3:27:25:a1:8d	(Unknown)
+
+8 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.9: 256 hosts scanned in 2.421 seconds (105.74 hosts/sec). 8 responded
+
+ ** Starting arpspoof attacks for the following IPs
+: 192.168.200.1
+192.168.200.2
+192.168.200.3
+192.168.200.109
+192.168.200.121
+192.168.200.122
+192.168.200.125
+192.168.200.144
+192.168.200.134
+1)start: 2018.03.31-23.22.18 , stop: 2018.03.31-23.38.15 [duration before injection: 11 seconds , injected: 34 packets , duration after injection: 34 seconds ] ' ARPSPOOF ON 192.168.200.109 and 192.168.200.1 ' 
+
+2)start: 2018.03.31-23.40.09 , stop: 2018.03.31-23.58.59 [duration before injection: 131 seconds , injected: 21 packets , duration after injection: 290 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+3)start: 2018.03.31-23.59.30 , stop: 2018.04.01-00.20.34 [duration before injection: 276 seconds , injected: 36 packets , duration after injection: 108 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+4)start: 2018.04.01-00.22.30 , stop: 2018.04.01-00.45.51 [duration before injection: 149 seconds , injected: 34 packets , duration after injection: 121 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+5)start: 2018.04.01-00.46.38 , stop: 2018.04.01-00.58.55 [duration before injection: 53 seconds , injected: 14 packets , duration after injection: 230 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+6)start: 2018.04.01-00.59.48 , stop: 2018.04.01-01.01.47 [duration before injection: 34 seconds , injected: 1 packets , duration after injection: 58 seconds ] ' ARPSPOOF ON 192.168.200.144 and 192.168.200.1 ' 
+
+7)start: 2018.04.01-01.02.27 , stop: 2018.04.01-01.28.43 [duration before injection: 67 seconds , injected: 46 packets , duration after injection: 223 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+8)start: 2018.04.01-01.29.45 , stop: 2018.04.01-01.36.53 [duration before injection: 162 seconds , injected: 10 packets , duration after injection: 19 seconds ] ' ARPSPOOF ON 192.168.200.144 and 192.168.200.1 ' 
+
+9)start: 2018.04.01-01.38.31 , stop: 2018.04.01-02.03.33 [duration before injection: 187 seconds , injected: 32 packets , duration after injection: 267 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+10)start: 2018.04.01-02.05.14 , stop: 2018.04.01-02.28.25 [duration before injection: 238 seconds , injected: 27 packets , duration after injection: 201 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+11)start: 2018.04.01-02.29.58 , stop: 2018.04.01-02.57.52 [duration before injection: 161 seconds , injected: 46 packets , duration after injection: 119 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+12)start: 2018.04.01-02.59.27 , stop: 2018.04.01-03.23.33 [duration before injection: 37 seconds , injected: 44 packets , duration after injection: 178 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+13)start: 2018.04.01-03.24.09 , stop: 2018.04.01-03.48.29 [duration before injection: 256 seconds , injected: 40 packets , duration after injection: 143 seconds ] ' ARPSPOOF ON 192.168.200.144 and 192.168.200.1 ' 
+
+14)start: 2018.04.01-03.50.06 , stop: 2018.04.01-04.10.04 [duration before injection: 124 seconds , injected: 33 packets , duration after injection: 268 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+15)start: 2018.04.01-04.11.20 , stop: 2018.04.01-04.35.23 [duration before injection: 257 seconds , injected: 34 packets , duration after injection: 139 seconds ] ' ARPSPOOF ON 192.168.200.109 and 192.168.200.1 ' 
+
+16)start: 2018.04.01-04.37.10 , stop: 2018.04.01-04.58.52 [duration before injection: 300 seconds , injected: 31 packets , duration after injection: 182 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+17)start: 2018.04.01-05.00.16 , stop: 2018.04.01-05.09.33 [duration before injection: 154 seconds , injected: 8 packets , duration after injection: 147 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+18)start: 2018.04.01-05.10.52 , stop: 2018.04.01-05.40.14 [duration before injection: 282 seconds , injected: 38 packets , duration after injection: 277 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+19)start: 2018.04.01-05.41.29 , stop: 2018.04.01-05.55.54 [duration before injection: 15 seconds , injected: 20 packets , duration after injection: 186 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+20)start: 2018.04.01-05.56.36 , stop: 2018.04.01-06.28.33 [duration before injection: 87 seconds , injected: 47 packets , duration after injection: 292 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+21)start: 2018.04.01-06.29.05 , stop: 2018.04.01-06.45.15 [duration before injection: 180 seconds , injected: 16 packets , duration after injection: 263 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+22)start: 2018.04.01-06.46.06 , stop: 2018.04.01-07.06.44 [duration before injection: 252 seconds , injected: 31 packets , duration after injection: 24 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+23)start: 2018.04.01-07.07.50 , stop: 2018.04.01-07.34.11 [duration before injection: 218 seconds , injected: 31 packets , duration after injection: 262 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+24)start: 2018.04.01-07.36.03 , stop: 2018.04.01-07.47.54 [duration before injection: 6 seconds , injected: 16 packets , duration after injection: 176 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+25)start: 2018.04.01-07.49.47 , stop: 2018.04.01-08.13.08 [duration before injection: 231 seconds , injected: 34 packets , duration after injection: 91 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+26)start: 2018.04.01-08.14.11 , stop: 2018.04.01-08.41.33 [duration before injection: 31 seconds , injected: 47 packets , duration after injection: 296 seconds ] ' ARPSPOOF ON 192.168.200.144 and 192.168.200.1 ' 
+
+27)start: 2018.04.01-08.42.40 , stop: 2018.04.01-09.08.44 [duration before injection: 139 seconds , injected: 45 packets , duration after injection: 221 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+28)start: 2018.04.01-09.10.11 , stop: 2018.04.01-09.47.04 [duration before injection: 199 seconds , injected: 47 packets , duration after injection: 295 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+29)start: 2018.04.01-09.48.06 , stop: 2018.04.01-09.52.41 [duration before injection: 115 seconds , injected: 3 packets , duration after injection: 47 seconds ] ' ARPSPOOF ON 192.168.200.109 and 192.168.200.1 ' 
+
+30)start: 2018.04.01-09.53.44 , stop: 2018.04.01-10.21.13 [duration before injection: 129 seconds , injected: 45 packets , duration after injection: 90 seconds ] ' ARPSPOOF ON 192.168.200.144 and 192.168.200.1 ' 
+
+31)start: 2018.04.01-10.21.49 , stop: 2018.04.01-10.43.25 [duration before injection: 24 seconds , injected: 32 packets , duration after injection: 140 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+32)start: 2018.04.01-10.44.59 , stop: 2018.04.01-11.00.20 [duration before injection: 298 seconds , injected: 14 packets , duration after injection: 281 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+33)start: 2018.04.01-11.01.48 , stop: 2018.04.01-11.07.00 [duration before injection: 4 seconds , injected: 13 packets , duration after injection: 8 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+34)start: 2018.04.01-11.07.49 , stop: 2018.04.01-11.29.47 [duration before injection: 207 seconds , injected: 30 packets , duration after injection: 208 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+35)start: 2018.04.01-11.31.13 , stop: 2018.04.01-11.49.58 [duration before injection: 237 seconds , injected: 23 packets , duration after injection: 165 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+36)start: 2018.04.01-11.51.49 , stop: 2018.04.01-12.03.04 [duration before injection: 204 seconds , injected: 5 packets , duration after injection: 272 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+37)start: 2018.04.01-12.04.41 , stop: 2018.04.01-12.14.16 [duration before injection: 125 seconds , injected: 18 packets , duration after injection: 26 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+38)start: 2018.04.01-12.15.55 , stop: 2018.04.01-12.25.04 [duration before injection: 21 seconds , injected: 18 packets , duration after injection: 30 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+39)start: 2018.04.01-12.27.03 , stop: 2018.04.01-12.42.49 [duration before injection: 191 seconds , injected: 21 packets , duration after injection: 47 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+40)start: 2018.04.01-12.43.32 , stop: 2018.04.01-13.14.42 [duration before injection: 113 seconds , injected: 46 packets , duration after injection: 125 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+41)start: 2018.04.01-13.15.33 , stop: 2018.04.01-13.28.23 [duration before injection: 55 seconds , injected: 17 packets , duration after injection: 169 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+42)start: 2018.04.01-13.29.52 , stop: 2018.04.01-13.49.05 [duration before injection: 91 seconds , injected: 21 packets , duration after injection: 225 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+43)start: 2018.04.01-13.50.21 , stop: 2018.04.01-14.03.25 [duration before injection: 103 seconds , injected: 13 packets , duration after injection: 158 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+44)start: 2018.04.01-14.04.48 , stop: 2018.04.01-14.34.59 [duration before injection: 69 seconds , injected: 43 packets , duration after injection: 157 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+45)start: 2018.04.01-14.35.43 , stop: 2018.04.01-15.04.25 [duration before injection: 294 seconds , injected: 41 packets , duration after injection: 144 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+46)start: 2018.04.01-15.06.10 , stop: 2018.04.01-15.14.51 [duration before injection: 104 seconds , injected: 6 packets , duration after injection: 268 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+47)start: 2018.04.01-15.16.00 , stop: 2018.04.01-15.44.32 [duration before injection: 34 seconds , injected: 44 packets , duration after injection: 264 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+48)start: 2018.04.01-15.45.53 , stop: 2018.04.01-15.56.09 [duration before injection: 53 seconds , injected: 11 packets , duration after injection: 202 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+49)start: 2018.04.01-15.56.59 , stop: 2018.04.01-16.14.21 [duration before injection: 200 seconds , injected: 18 packets , duration after injection: 279 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+50)start: 2018.04.01-16.15.00 , stop: 2018.04.01-16.29.21 [duration before injection: 100 seconds , injected: 18 packets , duration after injection: 174 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+51)start: 2018.04.01-16.30.05 , stop: 2018.04.01-16.46.36 [duration before injection: 262 seconds , injected: 20 packets , duration after injection: 248 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+52)start: 2018.04.01-16.47.12 , stop: 2018.04.01-16.52.38 [duration before injection: 246 seconds , injected: 1 packets , duration after injection: 25 seconds ] ' ARPSPOOF ON 192.168.200.109 and 192.168.200.1 ' 
+
+53)start: 2018.04.01-16.53.13 , stop: 2018.04.01-17.12.35 [duration before injection: 218 seconds , injected: 24 packets , duration after injection: 136 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+54)start: 2018.04.01-17.14.10 , stop: 2018.04.01-17.35.52 [duration before injection: 281 seconds , injected: 28 packets , duration after injection: 140 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+55)start: 2018.04.01-17.36.36 , stop: 2018.04.01-17.43.08 [duration before injection: 51 seconds , injected: 2 packets , duration after injection: 294 seconds ] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 ' 
+
+56)start: 2018.04.01-17.44.02 , stop: 2018.04.01-17.48.18 [duration before injection: 38 seconds , injected: 2 packets , duration after injection: 173 seconds ] ' ARPSPOOF ON 192.168.200.109 and 192.168.200.1 ' 
+
+57)start: 2018.04.01-17.49.48 , stop: 2018.04.01-17.57.14 [duration before injection: 10 seconds , injected: 6 packets , duration after injection: 251 seconds ] ' ARPSPOOF ON 192.168.200.144 and 192.168.200.1 ' 
+
+58)start: 2018.04.01-17.57.52 , stop: 2018.04.01-18.08.42 [duration before injection: 160 seconds , injected: 8 packets , duration after injection: 215 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+59)start: 2018.04.01-18.09.48 , stop: 2018.04.01-18.28.38 [duration before injection: 6 seconds , injected: 31 packets , duration after injection: 211 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+60)start: 2018.04.01-18.30.31 , stop: 2018.04.01-18.52.05 [duration before injection: 243 seconds , injected: 29 packets , duration after injection: 93 seconds ] ' ARPSPOOF ON 192.168.200.144 and 192.168.200.1 ' 
+
+61)start: 2018.04.01-18.53.33 , stop: 2018.04.01-19.21.09 [duration before injection: 219 seconds , injected: 45 packets , duration after injection: 89 seconds ] ' ARPSPOOF ON 192.168.200.144 and 192.168.200.1 ' 
+
+62)start: 2018.04.01-19.22.32 , stop: 2018.04.01-19.30.00 [duration before injection: 25 seconds , injected: 7 packets , duration after injection: 206 seconds ] ' ARPSPOOF ON 192.168.200.144 and 192.168.200.1 ' 
+
+63)start: 2018.04.01-19.31.30 , stop: 2018.04.01-20.00.11 [duration before injection: 133 seconds , injected: 45 packets , duration after injection: 245 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+64)start: 2018.04.01-20.00.45 , stop: 2018.04.01-20.16.38 [duration before injection: 151 seconds , injected: 15 packets , duration after injection: 249 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+65)start: 2018.04.01-20.17.50 , stop: 2018.04.01-20.46.24 [duration before injection: 69 seconds , injected: 41 packets , duration after injection: 230 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+66)start: 2018.04.01-20.47.01 , stop: 2018.04.01-20.59.42 [duration before injection: 118 seconds , injected: 15 packets , duration after injection: 243 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+67)start: 2018.04.01-21.01.35 , stop: 2018.04.01-21.35.21 [duration before injection: 206 seconds , injected: 50 packets , duration after injection: 111 seconds ] ' ARPSPOOF ON 192.168.200.144 and 192.168.200.1 ' 
+
+68)start: 2018.04.01-21.36.36 , stop: 2018.04.01-21.48.47 [duration before injection: 246 seconds , injected: 9 packets , duration after injection: 167 seconds ] ' ARPSPOOF ON 192.168.200.109 and 192.168.200.1 ' 
+
+69)start: 2018.04.01-21.50.38 , stop: 2018.04.01-22.19.49 [duration before injection: 22 seconds , injected: 48 packets , duration after injection: 219 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+70)start: 2018.04.01-22.20.35 , stop: 2018.04.01-22.53.02 [duration before injection: 229 seconds , injected: 49 packets , duration after injection: 188 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 
+
+71)start: 2018.04.01-22.53.47 , stop: 2018.04.01-23.03.17 [duration before injection: 56 seconds , injected: 13 packets , duration after injection: 22 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+72)start: 2018.04.01-23.04.17 , stop: 2018.04.01-23.19.55 [duration before injection: 299 seconds , injected: 17 packets , duration after injection: 124 seconds ] ' ARPSPOOF ON 192.168.200.109 and 192.168.200.1 ' 
+
+73)start: 2018.04.01-23.21.32 , stop: 2018.04.01-23.45.21 [duration before injection: 109 seconds , injected: 38 packets , duration after injection: 24 seconds ] ' ARPSPOOF ON 192.168.200.109 and 192.168.200.1 ' 
+
+74)start: 2018.04.01-23.46.18 , stop: 2018.04.01-23.56.44 [duration before injection: 87 seconds , injected: 13 packets , duration after injection: 171 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+75)start: 2018.04.01-23.57.24 , stop: 2018.04.02-00.18.24 [duration before injection: 82 seconds , injected: 30 packets , duration after injection: 219 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
+
+76)start: 2018.04.02-00.19.14 , stop: 2018.04.02-00.44.29 [duration before injection: 69 seconds , injected: 38 packets , duration after injection: 289 seconds ] ' ARPSPOOF ON 192.168.200.109 and 192.168.200.1 ' 
+
+77)start: 2018.04.02-00.45.50 , stop: 2018.04.02-01.08.16 [duration before injection: 246 seconds , injected: 39 packets , duration after injection: 87 seconds ] ' ARPSPOOF ON 192.168.200.122 and 192.168.200.1 ' 

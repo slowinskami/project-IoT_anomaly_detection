@@ -1,0 +1,127 @@
+
+2018.03.17-08.29.28 *!*!*!*!*!*!*!*!* STARTING PORT SCANNING SCRIPT WITH NMAP
+
+2018.03.17-08.28.38 *!*!*!*!*!*!*!*!* STARTING PORT SCANNING SCRIPT WITH NMAP
+Scan 1 quick scan plus start: 2018.03.17-08.28.38, finish: 2018.03.17-08.30.07\n
+Scan 2 ping start: 2018.03.17-08.30.07, finish: 2018.03.17-08.30.10\n
+
+2018.03.17-08.31.56 *!*!*!*!*!*!*!*!* STARTING PORT SCANNING SCRIPT WITH NMAP
+Scan 1 quick traceroute start: 2018.03.17-08.31.56, finish: 2018.03.17-08.31.58\n
+Scan 2 intense all TCP ports start: 2018.03.17-08.31.58, finish: 2018.03.17-15.09.35\n
+Scan 3 quick start: 2018.03.17-15.09.35, finish: 2018.03.17-15.09.57\n
+Scan 4 quick traceroute start: 2018.03.17-15.09.57, finish: 2018.03.17-15.10.01\n
+Scan 5 regular start: 2018.03.17-15.10.01, finish: 2018.03.17-15.24.21\n
+Scan 6 intense plus UDP start: 2018.03.17-15.24.21, finish: 2018.03.17-18.22.50\n
+Scan 7 intense plus UDP start: 2018.03.17-18.22.50, finish: 2018.03.17-21.20.21\n
+Scan 8 regular start: 2018.03.17-21.20.21, finish: 2018.03.17-21.34.10\n
+Scan 9 intense start: 2018.03.17-21.34.10, finish: 2018.03.17-21.43.18\n
+Scan 10 regular start: 2018.03.17-21.43.18, finish: 2018.03.17-21.54.02\n
+Scan 11 quick scan plus start: 2018.03.17-21.54.02, finish: 2018.03.17-21.55.24\n
+Scan 12 quick traceroute start: 2018.03.17-21.55.24, finish: 2018.03.17-21.55.27\n
+Scan 13 regular start: 2018.03.17-21.55.27, finish: 2018.03.17-22.11.42\n
+Scan 14 intense plus UDP start: 2018.03.17-22.11.42, finish: 2018.03.18-01.07.55\n
+Scan 15 quick start: 2018.03.18-01.07.55, finish: 2018.03.18-01.08.22\n
+Scan 16 quick traceroute start: 2018.03.18-01.08.22, finish: 2018.03.18-01.08.24\n
+Scan 17 intense plus UDP start: 2018.03.18-01.08.24, finish: 2018.03.18-04.04.59\n
+Scan 18 regular start: 2018.03.18-04.04.59, finish: 2018.03.18-04.11.38\n
+Scan 19 intense no ping start: 2018.03.18-04.11.38, finish: 2018.03.18-04.21.00\n
+Scan 20 intense no ping start: 2018.03.18-04.21.00, finish: 2018.03.18-04.29.12\n
+Scan 21 regular start: 2018.03.18-04.29.12, finish: 2018.03.18-04.35.46\n
+Scan 22 quick scan plus start: 2018.03.18-04.35.46, finish: 2018.03.18-04.37.03\n
+Scan 23 quick start: 2018.03.18-04.37.03, finish: 2018.03.18-04.37.30\n
+Scan 24 intense plus UDP start: 2018.03.18-04.37.30, finish: 2018.03.18-07.35.59\n
+Scan 25 regular start: 2018.03.18-07.35.59, finish: 2018.03.18-07.47.23\n
+Scan 26 ping start: 2018.03.18-07.47.23, finish: 2018.03.18-07.47.25\n
+Scan 27 regular start: 2018.03.18-07.47.25, finish: 2018.03.18-08.03.55\n
+Scan 28 intense start: 2018.03.18-08.03.55, finish: 2018.03.18-08.12.27\n
+Scan 29 regular start: 2018.03.18-08.12.27, finish: 2018.03.18-08.21.31\n
+Scan 30 intense plus UDP start: 2018.03.18-08.21.31, finish: 2018.03.18-11.18.48\n
+Scan 31 regular start: 2018.03.18-11.18.48, finish: 2018.03.18-11.26.43\n
+Scan 32 regular start: 2018.03.18-11.26.43, finish: 2018.03.18-11.41.39\n
+Scan 33 intense start: 2018.03.18-11.41.39, finish: 2018.03.18-11.50.40\n
+Scan 34 quick start: 2018.03.18-11.50.40, finish: 2018.03.18-11.50.58\n
+Scan 35 quick scan plus start: 2018.03.18-11.50.58, finish: 2018.03.18-11.52.28\n
+Scan 36 regular start: 2018.03.18-11.52.28, finish: 2018.03.18-12.17.23\n
+Scan 37 regular start: 2018.03.18-12.17.23, finish: 2018.03.18-12.28.27\n
+Scan 38 intense plus UDP start: 2018.03.18-12.28.27, finish: 2018.03.18-15.25.25\n
+Scan 39 quick start: 2018.03.18-15.25.25, finish: 2018.03.18-15.25.44\n
+Scan 40 intense all TCP ports start: 2018.03.18-15.25.44, finish: 2018.03.18-21.31.31\n
+Scan 41 intense start: 2018.03.18-21.31.31, finish: 2018.03.18-21.40.48\n
+Scan 42 regular start: 2018.03.18-21.40.48, finish: 2018.03.18-21.53.23\n
+Scan 43 regular start: 2018.03.18-21.53.23, finish: 2018.03.18-22.01.53\n
+Scan 44 regular start: 2018.03.18-22.01.53, finish: 2018.03.18-22.12.41\n
+Scan 45 quick start: 2018.03.18-22.12.41, finish: 2018.03.18-22.13.01\n
+Scan 46 intense no ping start: 2018.03.18-22.13.01, finish: 2018.03.18-22.22.09\n
+Scan 47 ping start: 2018.03.18-22.22.09, finish: 2018.03.18-22.22.13\n
+Scan 48 regular start: 2018.03.18-22.22.13, finish: 2018.03.18-22.29.02\n
+Scan 49 quick traceroute start: 2018.03.18-22.29.02, finish: 2018.03.18-22.29.04\n
+Scan 50 ping start: 2018.03.18-22.29.04, finish: 2018.03.18-22.29.08\n
+Scan 51 intense all TCP ports start: 2018.03.18-22.29.08, finish: 2018.03.19-04.18.37\n
+Scan 52 quick start: 2018.03.19-04.18.37, finish: 2018.03.19-04.19.00\n
+Scan 53 regular start: 2018.03.19-04.19.00, finish: 2018.03.19-04.34.52\n
+Scan 54 intense start: 2018.03.19-04.34.52, finish: 2018.03.19-04.43.35\n
+Scan 55 quick scan plus start: 2018.03.19-04.43.35, finish: 2018.03.19-04.45.04\n
+Scan 56 intense all TCP ports start: 2018.03.19-04.45.04, finish: 2018.03.19-10.59.50\n
+Scan 57 quick traceroute start: 2018.03.19-10.59.50, finish: 2018.03.19-10.59.53\n
+Scan 58 intense start: 2018.03.19-10.59.53, finish: 2018.03.19-11.08.51\n
+Scan 59 intense no ping start: 2018.03.19-11.08.51, finish: 2018.03.19-11.18.23\n
+Scan 60 quick start: 2018.03.19-11.18.23, finish: 2018.03.19-11.18.42\n
+Scan 61 intense plus UDP start: 2018.03.19-11.18.42, finish: 2018.03.19-14.14.45\n
+Scan 62 quick scan plus start: 2018.03.19-14.14.45, finish: 2018.03.19-14.16.21\n
+Scan 63 intense no ping start: 2018.03.19-14.16.21, finish: 2018.03.19-14.24.50\n
+Scan 64 regular start: 2018.03.19-14.24.50, finish: 2018.03.19-14.56.18\n
+Scan 65 intense all TCP ports start: 2018.03.19-14.56.18, finish: 2018.03.19-21.45.05\n
+Scan 66 regular start: 2018.03.19-21.45.05, finish: 2018.03.19-21.52.02\n
+Scan 67 quick start: 2018.03.19-21.52.02, finish: 2018.03.19-21.52.26\n
+Scan 68 intense start: 2018.03.19-21.52.26, finish: 2018.03.19-22.00.33\n
+Scan 69 regular start: 2018.03.19-22.00.33, finish: 2018.03.19-22.17.28\n
+Scan 70 regular start: 2018.03.19-22.17.28, finish: 2018.03.19-22.22.58\n
+Scan 71 quick scan plus start: 2018.03.19-22.22.58, finish: 2018.03.19-22.24.23\n
+Scan 72 regular start: 2018.03.19-22.24.23, finish: 2018.03.19-22.35.20\n
+Scan 73 intense start: 2018.03.19-22.35.20, finish: 2018.03.19-22.43.52\n
+Scan 74 quick scan plus start: 2018.03.19-22.43.52, finish: 2018.03.19-22.45.15\n
+Scan 75 quick scan plus start: 2018.03.19-22.45.15, finish: 2018.03.19-22.46.44\n
+Scan 76 intense no ping start: 2018.03.19-22.46.44, finish: 2018.03.19-22.55.17\n
+Scan 77 intense plus UDP start: 2018.03.19-22.55.17, finish: 2018.03.20-01.50.11\n
+Scan 78 regular start: 2018.03.20-01.50.11, finish: 2018.03.20-02.07.50\n
+Scan 79 intense plus UDP start: 2018.03.20-02.07.50, finish: 2018.03.20-05.02.46\n
+Scan 80 regular start: 2018.03.20-05.02.46, finish: 2018.03.20-05.10.52\n
+Scan 81 quick start: 2018.03.20-05.10.52, finish: 2018.03.20-05.11.12\n
+Scan 82 quick traceroute start: 2018.03.20-05.11.12, finish: 2018.03.20-05.11.14\n
+Scan 83 intense no ping start: 2018.03.20-05.11.14, finish: 2018.03.20-05.20.48\n
+Scan 84 regular start: 2018.03.20-05.20.48, finish: 2018.03.20-05.27.52\n
+Scan 85 regular start: 2018.03.20-05.27.52, finish: 2018.03.20-05.47.36\n
+Scan 86 quick scan plus start: 2018.03.20-05.47.36, finish: 2018.03.20-05.49.31\n
+Scan 87 regular start: 2018.03.20-05.49.31, finish: 2018.03.20-06.08.01\n
+Scan 88 quick start: 2018.03.20-06.08.01, finish: 2018.03.20-06.08.31\n
+Scan 89 ping start: 2018.03.20-06.08.31, finish: 2018.03.20-06.08.33\n
+Scan 90 regular start: 2018.03.20-06.08.33, finish: 2018.03.20-06.16.57\n
+Scan 91 intense no ping start: 2018.03.20-06.16.57, finish: 2018.03.20-06.27.11\n
+Scan 92 intense start: 2018.03.20-06.27.11, finish: 2018.03.20-06.35.38\n
+Scan 93 intense start: 2018.03.20-06.35.38, finish: 2018.03.20-06.44.12\n
+Scan 94 intense no ping start: 2018.03.20-06.44.12, finish: 2018.03.20-06.52.16\n
+Scan 95 quick start: 2018.03.20-06.52.16, finish: 2018.03.20-06.52.36\n
+Scan 96 regular start: 2018.03.20-06.52.36, finish: 2018.03.20-06.58.25\n
+Scan 97 regular start: 2018.03.20-06.58.26, finish: 2018.03.20-07.07.29\n
+Scan 98 ping start: 2018.03.20-07.07.29, finish: 2018.03.20-07.07.31\n
+Scan 99 quick traceroute start: 2018.03.20-07.07.31, finish: 2018.03.20-07.07.33\n
+Scan 100 quick start: 2018.03.20-07.07.33, finish: 2018.03.20-07.07.52\n
+Scan 101 regular start: 2018.03.20-07.07.52, finish: 2018.03.20-07.18.38\n
+Scan 102 intense plus UDP start: 2018.03.20-07.18.38, finish: 2018.03.20-10.27.09\n
+Scan 103 regular start: 2018.03.20-10.27.09, finish: 2018.03.20-10.40.46\n
+Scan 104 quick traceroute start: 2018.03.20-10.40.46, finish: 2018.03.20-10.40.49\n
+Scan 105 quick scan plus start: 2018.03.20-10.40.49, finish: 2018.03.20-10.42.16\n
+Scan 106 intense all TCP ports start: 2018.03.20-10.42.16, finish: 2018.03.20-18.08.49\n
+Scan 107 intense all TCP ports start: 2018.03.20-18.08.49, finish: 2018.03.21-01.08.26\n
+Scan 108 regular start: 2018.03.21-01.08.26, finish: 2018.03.21-01.19.50\n
+Scan 109 regular start: 2018.03.21-01.19.50, finish: 2018.03.21-01.26.13\n
+Scan 110 regular start: 2018.03.21-01.26.13, finish: 2018.03.21-01.39.09\n
+Scan 111 intense no ping start: 2018.03.21-01.39.09, finish: 2018.03.21-01.47.18\n
+Scan 112 regular start: 2018.03.21-01.47.18, finish: 2018.03.21-01.57.08\n
+Scan 113 quick scan plus start: 2018.03.21-01.57.08, finish: 2018.03.21-01.58.35\n
+Scan 114 ping start: 2018.03.21-01.58.35, finish: 2018.03.21-01.58.37\n
+Scan 115 quick start: 2018.03.21-01.58.37, finish: 2018.03.21-01.59.00\n
+Scan 116 intense all TCP ports start: 2018.03.21-01.59.00, finish: 2018.03.21-08.00.16\n
+Scan 117 quick start: 2018.03.21-08.00.16, finish: 2018.03.21-08.00.36\n
+Scan 118 regular start: 2018.03.21-08.00.36, finish: 2018.03.21-08.13.45\n
+Scan 119 quick scan plus start: 2018.03.21-08.13.45, finish: 2018.03.21-08.15.14\n
