@@ -14,29 +14,81 @@ iot-toolkit attack:
 	- device classification based on MAC addresses
 
 
+
 nmap attack: 
 
 	- class_is_malicious = 1 and class_attack_type = "reconnaissance" / "nmap" / "scanning" (?) for:
 		- source MAC = (attacker's MAC) (no source spoofing in nmap)
 		- target IP = 192.168.200.* (because targeting this "subnet")
 
+	- class_is_malicious = 0 for everything else
+
 
 
 dos attack:
 
 	"sudo hping3 -1 --flood --rand-source " 
+
+	-->  162) start: 2018.03.22-02.05.25 , stop: 2018.03.22-02.14.41 [556] ' sudo hping3 -1 --flood --rand-source 192.168.200.125 ' 
+ 
+
 	"sudo hping3 -1 -C 3 -K 3 --flood --rand-source " 
+
+	--> 218) start: 2018.03.22-04.29.42 , stop: 2018.03.22-04.36.24 [402] ' sudo hping3 -1 -C 3 -K 3 --flood --rand-source 192.168.200.122 '
+
+
+
 	"sudo hping3 -d 3000 --flood --frag -p 80 -S " 
+
+	--> 83) start: 2018.03.21-21.37.24 , stop: 2018.03.21-21.40.16 [171] ' sudo hping3 -d 3000 --flood --frag -p 80 -S 192.168.200.144 ' 
+
+
 	"sudo hping3 --flood -d 3000 --frag --rand-source -p 80 -A " 
+
+	--> 89) start: 2018.03.21-22.13.19 , stop: 2018.03.21-22.14.30 [70] ' sudo hping3 --flood -d 3000 --frag --rand-source -p 80 -A 192.168.200.121 ' 
+
 	"sudo hping3 --flood -d 3000 --frag --rand-source -p 80 -R " 
-	"sudo hping3 --flood -d 3000 --rand-source -p 80 -F -S -R -P -A -U -X -Y " 
+
+	--> 123) start: 2018.03.22-00.05.01 , stop: 2018.03.22-00.10.32 [331] ' sudo hping3 --flood -d 3000 --frag --rand-source -p 80 -R 192.168.200.109 ' 
+
+
+	"sudo hping3 --flood -d 3000 --rand-source -p 80 -F -S -R -P -A -U -X -Y" 
+
+	--> 172) start: 2018.03.22-02.33.59 , stop: 2018.03.22-02.38.03 [244] ' sudo hping3 --flood -d 3000 --rand-source -p 80 -F -S -R -P -A -U -X -Y 192.168.200.122 ' 
+
+
 	"sudo hping3 --flood --rand-source --udp --sign 'GosiaFlood' -p 80 "
 
-	- what these dos'es are?
-	- do they have spoofed source IPs?
-	- see the wireshark
+	--> 2) start: 2018.03.21-17.12.11 , stop: 2018.03.21-17.19.32 [441] ' sudo hping3 --flood --rand-source --udp --sign 'GosiaFlood' -p 80 192.168.200.125 ' 
+
+
+
+	- --rand-source = spoofed IP address, does it addect the MAC address?
+	- source
+
+
+	- class_is_malicious = 1 and class_attack_type = "dos" for:
+		- source MAC = (attacker's MAC) (no source spoofing in nmap)
+		- target MAC = device's MAC
+
+	- class_is_malicious = 0 for everything else
+
 
 
 deauth attack:
 
+	- deauthentication frame sent from attackers laptop to the devices
 	- 
+
+
+
+mitm attack (arpspoof):
+
+	- only the frame injected to change the entries in the MAC to IP mapping table or label the entire traffic that goes through the attacker's laptop? 
+
+	- injecting an icmp frame but this is pretty much random - a poc - so it shouldn't be the only indication of the attack being in progress
+
+
+
+
+
