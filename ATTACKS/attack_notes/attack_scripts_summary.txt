@@ -1,0 +1,127 @@
+** ATTACKS SCRIPTS SUMMARY **
+
+
+nmap scanning [automate-nmap-random2.sh] 
+
+	§  performs nine most popular nmap scans in a random order one by one
+
+	§  the scans include regular, quick, ping, intense, intense plus UDP, quick trace route, intense no ping, quick scan plus, intense all TCP ports
+
+	§  these scans were chosen because they are the main scans you can choose from in zen map gui for nmap
+
+	§  results of each scan are saved to the xml file 
+
+	§  the log is kept (general_log.txt) of the timing and types of each scan
+
+	§  terminal output is saved to the separate txt file (terminal_output_nmap.txt)
+
+
+
+tot-toolkit scanning, get_info and toggle [automate_iot-toolkit.sh]
+
+	§  utilises the iot-toolkit tool made my Fernando Gont
+
+	§  performs three “attacks” : scan for TP-Link devices (camera and plug), getting information on the TP-Link smart plug and the toggle attack on the TP-Link smart plug 
+
+	§  chooses one of the three “attacks” randomly
+
+	§  performs the toggle attack with random intensity (50-500) and for random time (30-360 seconds)
+
+	§  sleeps for 30 seconds after each iteration 
+
+	§  saves the scanning terminal output to the txt file (iot-toolkit_terminal_output.txt)
+
+	§  saves the timings of the attacks in the txt log file (not-toolkit_general_log.txt)
+
+
+
+DoS with hping3 [automate-dos.sh]
+
+	§  performs one of the seven popular dos floods with hping3
+
+	§  inspired by pentmenu tool by GinjaChris - tool that implements the same floods
+
+	§  chosen because these are most popular floods with hping3
+
+	§  first scans the network with nmap to get active Its on the network
+
+	§  chooses a random dos and a random IP to perform the dos on 
+
+	§  IPs for syslog, firewall, AP and attacker are excluded 
+
+	§  performs each dos for random time (from 30 seconds to 10 minutes) 
+
+	§  success of the dos was tested on my iot plug and alexa at home - they successfully flooded the devices
+
+	§  on the testbed I did not check each device one by one - will do it once I sort out the credentials, the ones provided worked only for the plug (kasa app)
+
+
+
+deauthentication attack [automate_deauth.sh]
+
+	§  exploits the 802.11 frame control if a client is associated securely to the AP
+
+	§  sends a series of deauth packets spoofing to be the unauthenticated client to the AP
+
+	§  script uses aircrack-ng (airmon-ng, airodump-ng, aireplay-ng)
+
+	§  need to enable monitor mode before running the script with: airmon-ng start wlan0
+
+	§  fix the channel (6 for the iot-lab SSID) and check the BSSID of the Access Point with the SSID iot-lab : airodump-ng wlan0mon -w fixed -c 6
+
+	§  Initial scanning for clients using the BSSID that was discovered in the previous step (with airodump-ng wlan0mon -c 6 --bssid 40:0D:10:45:4D:21 ) only discovered the plug, alexa and the lamp - after the first deauth alexa was no longer discoverable so the initial script was only deauthenticating the lamp and the plug (2 devices)
+
+	§  chooses the device to deauthenticate at random (one of the two that were discoverable in the airodump-ng scan)
+
+	§  pre-coded (previously checked) MAC address of the device is used in the command
+
+	§  deauth started as the background process and killed after random time from 5 seconds to 5 minutes
+
+	§  after each “attack” sleep for random time from 5 seconds to 5 minutes
+
+	§  log of all attacks and timings in deauth_log.txt
+
+
+
+deauthentication attack on the undiscoverable devices too [automate_deauthALL.sh]
+
+	§  rationale for performing this is that if the attacker has access to the network, then he can easily scan for mac addresses so he could try the deauth attack (not knowing whether they would work or not)
+
+	§  methodology and design are the same as above
+
+	§  six devices with hard-coded mac addresses, hard-coded BSSID of the AP
+
+	§  choose one of the three at random – perform deauth (for longer) from 5 seconds to 10 minutes, then sleep from 5 seconds to 5 minutes
+
+	§  log with timings in deauthALL_log.txt
+
+ 
+
+scanning for connected clients with airodump-ng [automate_airodump-scan.sh]
+
+	§  works on the monitor mode – needs to be enabled first
+
+	§  continuously scanning for clients on the specified BSSID
+
+	§  the scan is performed for random time from 30 seconds to 10 minutes
+
+
+
+ arpspoof MITM attack [automate_arpspoof.sh]
+
+	§  automated script searches for the IPs available on the network with nmap (IP of the router, attacker, firewall and syslog server are excluded)
+
+	§  hard-coded IP of the access point
+
+	§  allows IP forwarding
+
+	§  chooses a random IP from the list for the arpspoof
+
+	§  while the attacker is set in the middle – performs tcpdump (“passive monitoring”) could potentially add some active scenarios here too
+
+	§  sets the arpspoof and tcpdump as background processes, gets their PIDs and kills them after random time (from 30 seconds to 10 minutes)
+
+	§  haven’t fired it off yet because of some problems with rearping – need to verify if just not rearping the AP or also the clients
+
+
+	

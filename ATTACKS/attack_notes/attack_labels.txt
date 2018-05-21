@@ -1,0 +1,43 @@
+** LABELLING ATTACKS **
+
+Different labelling approaches depending on the attack type. 
+
+
+iot-toolkit attack:
+
+	- class_is_malicious = 1 and class_attack_type = "iot-toolkit" for :
+		- source MAC = (attacker's MAC)
+		- target MAC = (TPplug's MAC or TPcam's MAC)
+
+	- class_is_malicious = 0 for everything else
+
+	- device classification based on MAC addresses
+
+
+nmap attack: 
+
+	- class_is_malicious = 1 and class_attack_type = "reconnaissance" / "nmap" / "scanning" (?) for:
+		- source MAC = (attacker's MAC) (no source spoofing in nmap)
+		- target IP = 192.168.200.* (because targeting this "subnet")
+
+
+
+
+dos attack:
+
+	"sudo hping3 -1 --flood --rand-source " 
+	"sudo hping3 -1 -C 3 -K 3 --flood --rand-source " 
+	"sudo hping3 -d 3000 --flood --frag -p 80 -S " 
+	"sudo hping3 --flood -d 3000 --frag --rand-source -p 80 -A " 
+	"sudo hping3 --flood -d 3000 --frag --rand-source -p 80 -R " 
+	"sudo hping3 --flood -d 3000 --rand-source -p 80 -F -S -R -P -A -U -X -Y " 
+	"sudo hping3 --flood --rand-source --udp --sign 'GosiaFlood' -p 80 "
+
+	- what these dos'es are?
+	- do they have spoofed source IPs?
+	- see the wireshark
+
+
+deauth attack:
+
+	- 
