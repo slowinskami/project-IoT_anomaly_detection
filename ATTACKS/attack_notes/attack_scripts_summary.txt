@@ -45,7 +45,7 @@ DoS with hping3 [automate-dos.sh]
 
 	§  first scans the network with nmap to get active IPs on the network
 
-	§  chooses a random dos and a random IP to perform the dos on 
+	§  chooses a random DoS and a random IP to perform the dos on 
 
 	§  IPs for syslog, firewall, AP and attacker are excluded 
 

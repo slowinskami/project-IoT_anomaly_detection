@@ -1,15 +1,21 @@
 ** ML CLASSIFIERS **
 
+
 Naive Bayes
+	- very quick to create the model and test
+	- assumes conditional independence of the features
+	- sometimes work well even if features are
 
 
 Bayesian Network
+	- probabilistic model, takes codnitional dependence between features into account
 
 
 J48 Decision Tree
-
+	- decision tree, features' importance ranked based on the information gain measure
 
 Random Forest
+	- 
 
 
 Multi Layer Perceptron

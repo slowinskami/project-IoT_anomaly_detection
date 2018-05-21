@@ -7,8 +7,11 @@ dimensionality reduction methods used:
 	- (high) correlation with the class
 
 
-discretisation (manually) in Weka
-	- 
+discretisation (manually) in script
+
+	- based on the results from the autoencoder and my one-by-one walkthrough through the parameters
+	- didn't specify all the flags to be binarised
+	- could as well do it in Weka instead - much more straightforward and data- rather than expert_knowledge- based 
 
 
 normalisation
@@ -17,3 +20,7 @@ normalisation
 
 	- depends on the feature selection method - for example in order to have good results for "low-variance" feature selection method, normalisation should be used first
 
+
+
+Questions:
+- sho

@@ -22,7 +22,6 @@ nmap attack:
 
 
 
-
 dos attack:
 
 	"sudo hping3 -1 --flood --rand-source " 

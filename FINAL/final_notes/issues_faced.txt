@@ -1,4 +1,4 @@
 ** ISSUES FACED ** 
 
 
-- spent too much time on small things e.g. discretisation/categorisation in the script - going one by one through all the features
+- spent too much time on small things e.g. discretisation/categorisation in the script - going one by one through all the features; should have just decided that these should be discretised in Weka rather than in the script for extracting the features as some ML algorithms do not need to 
