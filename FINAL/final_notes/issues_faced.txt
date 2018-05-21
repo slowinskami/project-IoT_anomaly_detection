@@ -1,0 +1,4 @@
+** ISSUES FACED ** 
+
+
+- spent too much time on small things e.g. discretisation/categorisation in the script - going one by one through all the features

@@ -43,7 +43,7 @@ DoS with hping3 [automate-dos.sh]
 
 	§  chosen because these are most popular floods with hping3
 
-	§  first scans the network with nmap to get active Its on the network
+	§  first scans the network with nmap to get active IPs on the network
 
 	§  chooses a random dos and a random IP to perform the dos on 
 
@@ -124,4 +124,3 @@ scanning for connected clients with airodump-ng [automate_airodump-scan.sh]
 	§  haven’t fired it off yet because of some problems with rearping – need to verify if just not rearping the AP or also the clients
 
 
-	

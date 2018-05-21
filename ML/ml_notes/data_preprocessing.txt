@@ -1,0 +1,19 @@
+** DATA PRE-PROCESSING ** 
+
+dimensionality reduction methods used:
+
+	- no-variance 
+	- (low) correlation with other features
+	- (high) correlation with the class
+
+
+discretisation (manually) in Weka
+	- 
+
+
+normalisation
+
+	- depends on the learning algorithm whether it needs it or not
+
+	- depends on the feature selection method - for example in order to have good results for "low-variance" feature selection method, normalisation should be used first
+

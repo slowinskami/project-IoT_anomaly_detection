@@ -1,0 +1,18 @@
+** ML CLASSIFIERS **
+
+Naive Bayes
+
+
+Bayesian Network
+
+
+J48 Decision Tree
+
+
+Random Forest
+
+
+Multi Layer Perceptron
+
+
+SVM 
