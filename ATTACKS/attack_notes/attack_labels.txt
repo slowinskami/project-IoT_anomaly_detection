@@ -13,6 +13,11 @@ iot-toolkit attack:
 
 	- device classification based on MAC addresses
 
+	Attack 4 Toggle attack on TP-Link Smart Plug intensity: 471 , time: 111  start: 2018.03.23-20.58.49, finish: 2018.03.23-21.00.41
+
+	Attack 6 Getting information on TP-Link Smart Plug start: 2018.03.23-21.05.01, finish: 2018.03.23-21.05.02
+
+	Attack 10 Getting information on TP-Link Smart Plug start: 2018.03.23-21.08.37, finish: 2018.03.23-21.08.38
 
 
 nmap attack: 
@@ -24,12 +29,22 @@ nmap attack:
 	- class_is_malicious = 0 for everything else
 
 
+	- sample:
+
+	Scan 3 quick start: 2018.03.17-15.09.35, finish: 2018.03.17-15.09.57\n
+	
+
 
 dos attack:
 
 	"sudo hping3 -1 --flood --rand-source " 
 
+
 	-->  162) start: 2018.03.22-02.05.25 , stop: 2018.03.22-02.14.41 [556] ' sudo hping3 -1 --flood --rand-source 192.168.200.125 ' 
+	    ---> not valid, some pcaps are empty
+
+	--> 40) start: 2018.03.21-18.49.02 , stop: 2018.03.21-18.56.59 [477] ' sudo hping3 -1 --flood --rand-source 192.168.200.122 ' 
+
  
 
 	"sudo hping3 -1 -C 3 -K 3 --flood --rand-source " 
@@ -87,6 +102,14 @@ mitm attack (arpspoof):
 	- only the frame injected to change the entries in the MAC to IP mapping table or label the entire traffic that goes through the attacker's laptop? 
 
 	- injecting an icmp frame but this is pretty much random - a poc - so it shouldn't be the only indication of the attack being in progress
+
+
+
+	2)start: 2018.03.28-18.31.00 , stop: 2018.03.28-18.36.46 [duration: 341] ' ARPSPOOF ON 192.168.200.125 and 192.168.200.1 '  --> arp spoof passive
+
+
+
+	59)start: 2018.04.01-18.09.48 , stop: 2018.04.01-18.28.38 [duration before injection: 6 seconds , injected: 31 packets , duration after injection: 211 seconds ] ' ARPSPOOF ON 192.168.200.121 and 192.168.200.1 ' 
 
 
 

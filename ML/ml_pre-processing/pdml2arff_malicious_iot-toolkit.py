@@ -902,7 +902,7 @@ class PdmlConvert:
         attr_str += "@attribute packet_type {in, out}\n"
         attr_str += "@attribute class_device_type {AmazonEcho, BelkinCam, Hive, SmartThings, Lifx, TPLinkCam, TPLinkPlug, AP, Firewall, unknown}\n"
         attr_str += "@attribute class_is_malicious {0, 1}\n"
-        attr_str += "@attribute class_attack_type {dos, mitm, scanning, iot-toolkit, deauth, N/A}\n"
+        attr_str += "@attribute class_attack_type {DoS, MITM, Scanning, iot-toolkit, Deauth, N/A}\n"
         return text.substitute(RELATION=filename,ATTRIBUTES=attr_str)
 
     #
